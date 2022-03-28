@@ -1,14 +1,13 @@
 # main links links
 main:
+  - title: "LiDAR Human"
+    url: /lidarhuman/    
+
   - title: "Publications"
     url: /publications/
 
   # - title: "Talks"
   #   url: /talks/    
-
-  
-  - title: "LiDAR Human"
-    url: /lidarhuman/    
 
   # - title: "Teaching"
   #   url: /teaching/    

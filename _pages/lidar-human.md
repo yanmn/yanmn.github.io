@@ -11,7 +11,7 @@ header:
   overlay_filter: rgba(0, 0, 0, 0.5)
   actions:
     - label: "Read More"
-      url: "https://unsplash.com"
+      url: "/lidarhuman"
 redirect_from: 
   # - "/hsc4d.html"
   # - "/hsc4d/"
