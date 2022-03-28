@@ -21,14 +21,14 @@ feature_row2:
   - image_path: /images/overview.png
     url: /publication/hsc4d
     # title: HSC4D
-    btn_label: "Read More ..."
+    btn_label: "HSC4D"
     btn_class: "btn--primary"
     alt: "More Info Is Coming"
     excerpt: "HSC4D is a Human-centered 4D Scene Capture to accurately and efficiently create a dynamic digital world, containing large-scale indoor-outdoor scenes, diverse human motions, and rich interactions between humans and environments. Using only body ..."
 
 feature_row3: 
   - url: /lidarcap
-    btn_label: "Read More ..."
+    btn_label: "LiDARCap"
     # title: LiDARCap
     btn_class: "btn--primary"
     image_path: /images/lidarcap_teaser.png
@@ -52,10 +52,10 @@ LiDAR Human Motion project is jointly promoted by spAital Sensing and Computing 
 LiDAR is appearance-unaware and privacy-preserved, can acquire accurate 3D positions, and has a longer range scanning area than the conventional Motion Capture equipment.
 
 # Activities
-**03 / 2022** We propose two dataset, HSC4D and LiDARHuman26M. <br>
+**04 / 2022** We published two dataset, HSC4D and LiDARHuman26M. <br>
 **03 / 2022** 2 Papers accepted at [CVPR2022](http://cvpr2022.thecvf.com/)
 
-{% include feature_row id="feature_row2" type="left" %}
-{% include feature_row id="feature_row3" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
+{% include feature_row id="feature_row3" type="right" %}
 
 {% include gallery id="gallery2" %}
