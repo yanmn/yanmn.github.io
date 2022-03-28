@@ -20,7 +20,7 @@ redirect_from:
 feature_row2: 
   - image_path: /images/overview.png
     url: /publication/hsc4d
-    title: HSC4D
+    # title: HSC4D
     btn_label: "Read More ..."
     btn_class: "btn--primary"
     alt: "More Info Is Coming"
@@ -29,7 +29,7 @@ feature_row2:
 feature_row3: 
   - url: /lidarcap
     btn_label: "Read More ..."
-    title: LiDARCap
+    # title: LiDARCap
     btn_class: "btn--primary"
     image_path: /images/lidarcap_teaser.png
     alt: "More Info Is Coming"
