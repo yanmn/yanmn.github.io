@@ -56,7 +56,7 @@
         <p><a href="{{ cta_path }}" class="btn btn--light-outline btn--large">{{ page.header.cta_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
       {% endif %}
       {% if page.header.address %}
-        <address>{{ page.header.address}}</address>
+        <address>{{ page.header.address | markdownify | remove: "<p>" | remove: "</p>" }}</address>
       {% endif %}
       {% if page.header.actions %}
         <p>
