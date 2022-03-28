@@ -55,7 +55,7 @@ LiDAR is appearance-unaware and privacy-preserved, can acquire accurate 3D posit
 **04 / 2022** We published two dataset, HSC4D and LiDARHuman26M. <br>
 **03 / 2022** 2 Papers accepted at [CVPR2022](http://cvpr2022.thecvf.com/)
 
-{% include feature_row id="feature_row2" type="right" %}
-{% include feature_row id="feature_row3" type="right" %}
+{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row3" type="left" %}
 
 {% include gallery id="gallery2" %}
