@@ -46,12 +46,12 @@ gallery2:
     title: "ShanghaiTech"
 ---
 
-## Goal
+# Goal
 LiDAR Human Motion project is jointly promoted by spAital Sensing and Computing Lab, Xiamen University and Shanghai Engineering Research Center of Intelligent Vision and Imaging, ShanghaiTech University. Our goal is to capture, perceive and understand the human, scenes, and the interactions between humans and scenes in the complex real world, and finally create a dynamic 4D digital world!
 
 LiDAR is appearance-unaware and privacy-preserved, can acquire accurate 3D positions, and has a longer range scanning area than the conventional Motion Capture equipment.
 
-## Activities
+# Activities
 **03 / 2022** We propose two dataset, HSC4D and LiDARHuman26M. <br>
 **03 / 2022** 2 Papers accepted at [CVPR2022](http://cvpr2022.thecvf.com/)
 
