@@ -4,6 +4,7 @@ permalink: /data-hsc4d/
 title: "HSC4D: Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR"
 date: 2022-06-14
 author_profile: false
+navigation: false
 venue: CVPR
 journal: IEEE Conference on Computer Vision and Pattern Recognition
 author: "<strong>Yudi Dai<sup>1</sup></strong>, Yitai Lin<sup>1</sup>, Chenglu Wen<sup>1, *</sup>, Siqi Shen<sup>1</sup>, Lan Xu<sup>2</sup>, Jingyi Yu<sup>2</sup>, Yuexin Ma<sup>2</sup>, Cheng Wang<sup>1</sup>"
