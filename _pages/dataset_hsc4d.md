@@ -42,6 +42,7 @@ style="border-radius: 0.3125em;
 src="/images/hsc4d_dataset.mp4" 
 frameborder="no" 
 allowfullscreen="false"
+loop="loop"
 preload="" 
 muted="muted" 
 autoplay="autoplay"
