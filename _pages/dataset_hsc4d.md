@@ -42,7 +42,7 @@ redirect_from:
 - ...
 
 ## Data structure
-```
+```terminal
 Dataset root
 ├── climbing_gym
 |  ├── climbing_gym.bvh
@@ -81,7 +81,7 @@ Dataset root
 - Transfer Mocap data  (Optional, data provided)
   - **Input**: `campus_road.bvh`
   - **Command**: 
-      ```
+      ```python
       pip install bvhtoolbox # https://github.com/OlafHaag/bvh-toolbox
       bvh2csv campus_road.bvh
       ```
@@ -90,7 +90,7 @@ Dataset root
 
 - Point cloud mapping (Optional, data provided)
   - Write the binary pcap into txt files. Each frame is stored in a file.
-    ```
+    ```python
     pip install ouster-sdk 
     python ouster_pcap_to_txt.py campus_road.pcap [frame_num]
     ```
@@ -105,7 +105,7 @@ Dataset root
     3. Translate the scene to make its origin to the first SMPL model's origin on the ground. LiDAR's ego motion $T^W$ and $R^W$ are translated and rotated as the scene does. 
     
 - Generate necessary files for optimization. For example, you can run the following code to preprocess the `campus_road` sequence.
-  ```
+  ```python
   python preprocess.py --fn campus_road
   ```
 
