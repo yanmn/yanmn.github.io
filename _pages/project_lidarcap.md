@@ -5,10 +5,11 @@ title: "LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Poin
 # excerpt: "Project of Lidar Human Motion"
 author_profile: false
 navigation: false
-author: "Jialian Li<sup>1,\*</sup>, Jingyi Zhang<sup>1,\*</sup>, Zhiyong Wang<sup>1</sup>, Siqi Shen<sup>1</sup>, Chenglu Wen<sup>1</sup>, Yuexin Ma<sup>2</sup>, Lan Xu<sup>2</sup>, Jingyi Yu<sup>2</sup>, Cheng Wang<sup>1,†</sup>"
+author: "Jialian Li<sup>1,*</sup>, Jingyi Zhang<sup>1, *</sup>, Zhiyong Wang<sup>1</sup>, Siqi Shen<sup>1</sup>, Chenglu Wen<sup>1</sup>, Yuexin Ma<sup>2</sup>, Lan Xu<sup>2</sup>, Jingyi Yu<sup>2</sup>, Cheng Wang<sup>1,†</sup>"
 
 header:
   overlay_color: "#9EA0A3"
+  image_description: "A description of the image"
   address: "$^1$spAital Sensing and Computing Lab, School of Informatics, Xiamen Universtiy, China<br>
   $^2$Shanghai Engineering Research Center of Intelligent Vision and Imaging, ShanghaiTech Universtiy, China"
 
