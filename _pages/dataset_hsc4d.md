@@ -35,6 +35,23 @@ redirect_from:
 
 # Dataset
 
+<video 
+width="100%"
+style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+src="/images/hsc4d_dataset.mp4" 
+frameborder="no" 
+allowfullscreen="false"
+preload="" 
+muted="muted" 
+autoplay="autoplay"
+playsinline="">
+</video>
+<div style="color:orange; border-bottom: 0px solid #d9d9d9;
+display: inline-block;
+color: #999;
+padding: -2px;">The large indoor and outdoor scenes in our dataset. <strong>Left</strong>: a climbing gym (1200 m<sup>2</sup>). <strong>Middle</strong>: a lab building with an outside courtyard 4000 m<sup>2</sup>. <strong>Right</strong>: a loop road scene 4600 m<sup>2</sup> </div>
+
 ## Data links
 - Sequence1: [campus_raod](https://drive.google.com/file/d/1fznVjBwezkJyRoTTEjxNBp7uJBaPgAJB/view?usp=sharing)<br>
 - Sequence2: [climbing_gym](/hsc4d)<br>
