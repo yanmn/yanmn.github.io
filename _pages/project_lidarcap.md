@@ -4,6 +4,7 @@ permalink: /lidarcap/
 title: "LiDARCap: Long-range Marker-less 3D Human Motion Capture with LiDAR Point Clouds"
 excerpt: "Project of Lidar Human Motion"
 author_profile: false
+navigation: false
 redirect_from: 
   # - "/hsc4d.html"
   # - "/hsc4d/"
