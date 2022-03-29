@@ -34,6 +34,12 @@ redirect_from:
 
 # Dataset
 
+## Data links
+- Sequence1: [campus_raod](https://drive.google.com/file/d/1fznVjBwezkJyRoTTEjxNBp7uJBaPgAJB/view?usp=sharing)<br>
+- Sequence2: [climbing_gym](/hsc4d)<br>
+- Sequence3: [lab_building](/hsc4d)
+- ...
+
 ## Data structure
 ```
 Dataset root
@@ -97,7 +103,7 @@ Dataset root
     2. Rotate the scene cloud $Z$-axis perpendicular to the starting position's ground. 
     3. Translate the scene to make its origin to the first SMPL model's origin on the ground. LiDAR's ego motion $T^W$ and $R^W$ are translated and rotated as the scene does. 
     
-- Process the original files to generate necessary files for optimization. You can run the following code to preprocess the `campus_road` sequence.
+- Generate necessary files for optimization. For example, you can run the following code to preprocess the `campus_road` sequence.
   ```
   python preprocess.py --fn campus_road
   ```
