@@ -18,10 +18,12 @@ header:
   # overlay_image: /images/overview.png
   image_description: "A description of the image"
   actions:
-    - label: "Arxiv"
+    - label: "ArXiv"
       url: "https://arxiv.org/abs/2203.09215"
     - label: "CODE"
       url: "https://github.com/climbingdaily/HSC4D"
+    - label: "DATA"
+      url: "/data-hsc4d"
   address: "$^1$spAital Sensing and Computing Lab, School of Informatics, Xiamen Universtiy, China<br>
   $^2$Shanghai Engineering Research Center of Intelligent Vision and Imaging, ShanghaiTech Universtiy, China"
 
@@ -30,25 +32,46 @@ redirect_from:
   - "/data-hsc4d.html"
 ---
 
-## Dataset
+# Dataset
 
-### Data structure
+## Data structure
 ```
 Dataset root
+├── climbing_gym
+|  ├── climbing_gym.bvh
+|  ├── climbing_gym_pos.csv
+|  ├── climbing_gym_rot.csv
+|  ├── climbing_gym.pcap
+|  └── climbing_gym_lidar_trajectory.txt 
+| 
+├── lab_building
+|  ├── lab_building.bvh
+|  ├── lab_building_pos.csv
+|  ├── lab_building_rot.csv
+|  ├── lab_building.pcap
+|  └── lab_building_lidar_trajectory.txt 
+|  
 ├── campus_road
 |  ├── campus_road.bvh
 |  ├── campus_road_pos.csv
 |  ├── campus_road_rot.csv
 |  ├── campus_road.pcap
 |  └── campus_road_lidar_trajectory.txt 
-├── scenes
+└── scenes
+   ├── climbing_gym.pcd
+   ├── climbing_gym_ground.pcd
+   ├── lab_building.pcd
+   ├── lab_building_ground.pcd
    ├── campus_road.pcd
-   ├── campus_road_ground.pcd
+   └── campus_road_ground.pcd
 ```
+1. The `csv` files are generated from the MoCap format data `bvh`. <br>
+2. The `lidar_trajectory.txt` is provided by our own method from the LiDAR point cloud data `pcap` and coordinates aligned with corresponding scenes. <br>
+3. `bvh` and `pcap` will not be used in the following processing and optimization steps.
+4. By the way, you can test your SLAM algorithm with the `pcap` file. It can be transferred into pcd files with tools provided in [Github](https://github.com/climbingdaily/HSC4D).
 
-
-### Data preprocess
-- Mocap data transfer (Optional, data provided)
+## Data preprocess
+- Transfer Mocap data  (Optional, data provided)
   - **Input**: `campus_road.bvh`
   - **Command**: 
       ```
@@ -68,18 +91,21 @@ Dataset root
     - **Input**: The frame files in the last step.
     - **Output**: `campus_road_lidar_trajectory.txt`, `campus_road.pcd` 
   
-  - Coordinate alignment (Optional, data provided)
-    - ***To be added***
-
+  - Coordinate alignment (About 5 degree error after this step)
+  
+    1. The human stands as an A-pose before capture, and the human's face direction is regarded as scene's $Y$-axis direction. 
+    2. Rotate the scene cloud $Z$-axis perpendicular to the starting position's ground. 
+    3. Translate the scene to make its origin to the first SMPL model's origin on the ground. LiDAR's ego motion $T^W$ and $R^W$ are translated and rotated as the scene does. 
+    
 - Process the original files to generate necessary files for optimization. You can run the following code to preprocess the `campus_road` sequence.
   ```
   python preprocess.py --fn campus_road
   ```
 
-### Data fusion
+## Data fusion
 ***To be added***
 
-### Data optimization
+## Data optimization
 ***To be added***
 
 
