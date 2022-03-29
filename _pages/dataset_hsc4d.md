@@ -76,7 +76,7 @@ Dataset root
 3. `bvh` and `pcap` will not be used in the following processing and optimization steps.
 4. By the way, you can test your SLAM algorithm with the `pcap` file. It can be transferred into pcd files with tools provided in [Github](https://github.com/climbingdaily/HSC4D).
 
-## Data preprocess
+## Preprocess
 - Transfer Mocap data  (Optional, data provided)
   - **Input**: `campus_road.bvh`
   - **Command**: 
