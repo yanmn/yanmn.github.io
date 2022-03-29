@@ -18,12 +18,12 @@ header:
   # overlay_image: /images/overview.png
   image_description: "A description of the image"
   actions:
-    - label: "Project"
-      url: "/hsc4d"
+    - label: "ArXiv"
+      url: "https://arxiv.org/abs/2203.09215"
     - label: "CODE"
       url: "https://github.com/climbingdaily/HSC4D"
-    - label: "DATA"
-      url: "/data-hsc4d"
+    - label: "Project"
+      url: "/hsc4d"
   address: "$^1$spAital Sensing and Computing Lab, School of Informatics, Xiamen Universtiy, China<br>
   $^2$Shanghai Engineering Research Center of Intelligent Vision and Imaging, ShanghaiTech Universtiy, China"
 
