@@ -22,7 +22,7 @@ feature_row2:
     url: /publication/hsc4d
     # title: HSC4D
     btn_label: "HSC4D"
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
     alt: "More Info Is Coming"
     excerpt: "HSC4D is a Human-centered 4D Scene Capture to accurately and efficiently create a dynamic digital world, containing large-scale indoor-outdoor scenes, diverse human motions, and rich interactions between humans and environments. Using only body ..."
 
@@ -30,7 +30,7 @@ feature_row3:
   - url: /lidarcap
     btn_label: "LiDARCap"
     # title: LiDARCap
-    btn_class: "btn--primary"
+    btn_class: "btn--inverse"
     image_path: /images/lidarcap_teaser.png
     alt: "More Info Is Coming"
     excerpt: "Existing motion capture datasets are largely short-range and cannot yet fit the need of long-range applications. We propose LiDARHuman26M, a new human motion capture dataset captured by LiDAR at a much longer range to overcome this limitation ..."
