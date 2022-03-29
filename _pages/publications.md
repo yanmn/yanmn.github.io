@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Publications"
-permalink: /publications/
+permalink: /publication/
 author_profile: false
 ---
 
