@@ -18,8 +18,8 @@ header:
   # overlay_image: /images/overview.png
   image_description: "A description of the image"
   actions:
-    - label: "ArXiv"
-      url: "https://arxiv.org/abs/2203.09215"
+    - label: "Project"
+      url: "/hsc4d"
     - label: "CODE"
       url: "https://github.com/climbingdaily/HSC4D"
     - label: "DATA"
