@@ -11,16 +11,12 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-<link rel="stylesheet" type="text/css" href="https://climbingdaily.github.io/css/style.css">
+<!-- <link rel="stylesheet" type="text/css" href="https://climbingdaily.github.io/css/style.css">
 <link rel="stylesheet" type="text/css" href="https://climbingdaily.github.io/css/bootstrap.css">
-<link rel="stylesheet" type="text/css" href="https://climbingdaily.github.io/css/fontawesome.css">
+<link rel="stylesheet" type="text/css" href="https://climbingdaily.github.io/css/fontawesome.css"> -->
 
-<!-- <style> 
-  p{ 
-      margin-top: 0;
-      margin-bottom: 0rem;
-    } 
-</style>  -->
+<link rel="stylesheet" type="text/css" href="{{"/css/pub_style.css" | prepend: base_path }}">
+
 
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
