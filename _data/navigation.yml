@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "LiDAR Human"
-    url: /lidarhuman/    
+  # - title: "LiDAR Human"
+  #   url: /lidarhuman/    
 
   - title: "Publications"
     url: /publication/
