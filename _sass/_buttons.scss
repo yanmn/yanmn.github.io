@@ -94,4 +94,7 @@
     &--small {
       font-size: $type-size-7;
     }
+    &--border {
+      border-color: $light-gray;
+    }
   }
