@@ -34,6 +34,8 @@
     (light-gray, $light-gray),
     (inverse, #fff),
     (light-outline, transparent),
+    (light-outline-hafl, transparent-half),
+    (light-outline-no, transparent-no),
     (success, $success-color),
     (warning, $warning-color),
     (danger, $danger-color),
@@ -100,7 +102,7 @@
       font-size: $type-size-8;
     }
 
-    &--border {
-      border: 1px solid #000000;
-    }
+    // &--border {
+    //   border: 1px solid #000000;
+    // }
   }

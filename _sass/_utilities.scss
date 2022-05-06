@@ -23,6 +23,14 @@
   opacity: 0;
 }
 
+.transparent-half {
+  opacity: 0.5;
+}
+
+.transparent-no {
+  opacity: 1;
+}
+
 /* https://developer.yahoo.com/blogs/ydn/clip-hidden-content-better-accessibility-53456.html */
 
 .visually-hidden,
