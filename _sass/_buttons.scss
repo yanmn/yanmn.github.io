@@ -31,6 +31,7 @@
     /* button colors */
     $buttoncolors:
     (primary, $primary-color),
+    (light-gray, $light-gray),
     (inverse, #fff),
     (light-outline, transparent),
     (success, $success-color),
@@ -94,6 +95,11 @@
     &--small {
       font-size: $type-size-7;
     }
+    
+    &--xsmall {
+      font-size: $type-size-8;
+    }
+
     &--border {
       border: 1px solid #000000;
     }
