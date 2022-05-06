@@ -33,7 +33,7 @@
     {% endif %}
     
     <div class="row paper-box">
-      <div class="col-md-3 col-12 paper_img"> 
+      <div class="col-md-2 col-12 paper_img"> 
         <video src=
         {% if post.videopath and post.videopath contains "://" %}
           "{{post.videopath}}"
@@ -43,7 +43,7 @@
           "{{"/images/temp.mp4" | prepend: base_path}}" 
         {% endif %}
         width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="" alt="Popup Image" class="img-fluid" ></video></div>
-      <div class="col-md-9 col-12 paper-content">
+      <div class="col-md-10 col-12 paper-content">
           <!-- <h5>{{title}}</h5> -->
           <strong>{{title}}</strong>
           <br>
