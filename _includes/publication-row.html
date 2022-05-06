@@ -61,7 +61,7 @@
           {% endif %}
           <!-- <p>  -->
             {% if post.project %}
-            <a href="{{ post.project }}" class="btn btn--inverse btn--xsmall ">&lg;Project&gt;</a>
+            <a href="{{ post.project }}" class="btn btn--inverse btn--xsmall ">&lt;Project&gt;</a>|
             {% endif %}
             {% if post.youtube %}
             <a href="{{ post.youtube }}" class="btn btn--inverse btn--border">Video</a>
@@ -70,7 +70,7 @@
             <a href="{{ post.paper }}" class="btn btn--inverse btn--border">Paper</a>
             {% endif %}
             {% if post.code %}
-            <a href="{{ post.code }}" class="btn btn--inverse btn--border">&lg;/Code&gt;</a>
+            |<a href="{{ post.code }}" class="btn btn--inverse btn--border">&lt;Code&gt;</a>
             {% endif %}
           <br>
       </div>
