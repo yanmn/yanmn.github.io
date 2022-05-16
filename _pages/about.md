@@ -10,22 +10,28 @@ redirect_from:
 ---
 
 ---
-I am a Ph.D. student (2019-present) at Department of Computer Science, [Xiamen University](https://en.xmu.edu.cn/), working in the lab for spAtial Sensing and Computing ([ASC](https://asc.xmu.edu.cn/)), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). I started to do my M.S. in 2017 and turned to do Ph.D. in 2019. I obtained my B.E. in cognitive science from Xiamen University in 2016. 
+I am a Ph.D. student (2019 - present) at Department of Computer Science, [Xiamen University](https://en.xmu.edu.cn/), working in the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). I started to do my M.S. in 2017 and turned to do Ph.D. in 2019. I obtained my B.E. in cognitive science from Xiamen University in 2016. 
 
-My research interests lie in 3D Computer Vision, LiDAR mapping and LiDAR human. I am currently working on in-the-wild LiDAR human-scene capture.
+My research interests lie in 3D Computer Vision, LiDAR mapping and LiDAR human capture. I am currently working on in-the-wild LiDAR human-scene capture.
 
-When I am not doing research, I like rock climbing and working out. 
+## Selected Publications
 
-Selected Publications
-=====
----
-**Yudi Dai**, Yitai Lin, Chenglu Wen\*, Siqi Shen, Lan Xu, Jingyi Yu, Yuexin Ma, Cheng Wang. "HSC4D: Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR". *Accepted by CVPR 2022*
+{% for post in site.publications reversed %}
+  {% include publication-row.html %}
+{% endfor %}
+
+**Yudi Dai**, Yitai Lin, Chenglu Wen\*, Siqi Shen, Lan Xu, Jingyi Yu, Yuexin Ma, Cheng Wang. "HSC4D: Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR". *Accepted to CVPR 2022*
 
 **Yudi Dai**, Chenglu Wen\*, Hai Wu, Yulan Guo, Longbiao Chen and Cheng Wang. “Indoor 3D Human Trajectory Reconstruction Using Surveillance Camera Videos and Point Clouds.” *IEEE Transactions on Circuits and Systems for Video Technology* (2021).
 
 Cheng Wang\*, **Yudi Dai**, Naser El-Sheimy, Chenglu Wen, Guenther Retscher, Zhizhong Kang and Andrea Maria Lingua. “ISPRS BENCHMARK ON MULTISENSORY INDOOR MAPPING AND POSITIONING.”  *ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences* 5, no. 5 (2020).
 
 Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li. "Toward efficient 3-d colored mapping in GPS-/GNSS-denied environments." *IEEE Geoscience and Remote Sensing Letters* 17, no. 1 (2019): 147-151.
+
+## Misc
+When I am not doing research, I like rock climbing and working out. 
+
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
