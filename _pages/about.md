@@ -16,10 +16,6 @@ My research interests lie in 3D Computer Vision, LiDAR mapping and LiDAR human c
 
 ## Selected Publications
 
-<!-- {% for post in site.publications reversed %}
-  {% include publication-row.html %}
-{% endfor %} -->
-
 **Yudi Dai**, Yitai Lin, Chenglu Wen\*, Siqi Shen, Lan Xu, Jingyi Yu, Yuexin Ma, Cheng Wang. "HSC4D: Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR". *Accepted to CVPR 2022*
 
 **Yudi Dai**, Chenglu Wen\*, Hai Wu, Yulan Guo, Longbiao Chen and Cheng Wang. “Indoor 3D Human Trajectory Reconstruction Using Surveillance Camera Videos and Point Clouds.” *IEEE Transactions on Circuits and Systems for Video Technology* (2021).
