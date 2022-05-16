@@ -16,7 +16,7 @@
 <!-- <link rel="stylesheet" type="text/css" href="{{"/css/pub_style.css" | prepend: base_path }}"> -->
 
 
-<div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
+<div class="feature__item{% if include.type %}--{{ include.type }}{%else%}--left{% endif %}">
   <!-- <link rel="stylesheet" type="text/css" href="{{"/css/style.css" | prepend: base_path }}">
   <link rel="stylesheet" type="text/css" href="{{"/css/bootstrap.css" | prepend: base_path }}"> -->
   <div class="archive__item">
