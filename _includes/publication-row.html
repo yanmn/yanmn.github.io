@@ -29,12 +29,13 @@
         {% else %}
           "{{"/images/temp.mp4" | prepend: base_path}}" 
         {% endif %}
-        playsinline="" autoplay="autoplay" loop="loop" preload="" muted="" alt="Popup Image" class="img-fluid" ></video></div>
+        width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="" alt="Popup Image" class="img-fluid" >
+      </video>
+      </div>
       <div class="archive__item-body">
-          <h2>{{title}}</h2>
+          <div class="archive__item-excerpt">{{title}}</div>
           <!-- <strong>{{title}}</strong> -->
           <br>
-          <!-- <p> -->
             {% if post.author %}
               {{post.author}}
             {% else %}
@@ -42,7 +43,6 @@
             {% endif %}
           <br>
           {% if post.venue and post.journal and post.date%}
-          <!-- <p> -->
             (<strong><i>{{ post.venue }}</i></strong> {{ post.date | default: "1900-01-01" | date: "%Y" }}) {{ post.journal }}
           <br>
           {% endif %}
@@ -61,15 +61,5 @@
             {% endif %}
           <br>
       </div>
-    </div>
-
-    <!-- {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %} -->
-
     </div>
 </div>
