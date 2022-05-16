@@ -19,19 +19,6 @@
 <div class="feature__item{% if include.type %}--{{ include.type }}{%else%}--left{% endif %}">
   <!-- <link rel="stylesheet" type="text/css" href="{{"/css/style.css" | prepend: base_path }}">
   <link rel="stylesheet" type="text/css" href="{{"/css/bootstrap.css" | prepend: base_path }}"> -->
-  <div class="archive__item">
-    {% if include.type == "grid" and teaser %}
-      <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | prepend: "/images/" | prepend: base_path }}"
-          {% endif %}
-          alt="">
-      </div>
-    {% endif %}
-    
     <div class="archive__item">
       <div class="archive__item-teaser"> 
         <video src=
