@@ -14,7 +14,7 @@ I am a Ph.D. student (2019 - present) at Department of Computer Science, [Xiamen
 
 My research interests lie in 3D Computer Vision, LiDAR mapping and LiDAR human capture. I am currently working on in-the-wild LiDAR human-scene capture.
 
-## Selected Publications
+<!-- ## Selected Publications
 
 **Yudi Dai**, Yitai Lin, Chenglu Wen\*, Siqi Shen, Lan Xu, Jingyi Yu, Yuexin Ma, Cheng Wang. "HSC4D: Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR". *Accepted to CVPR 2022*
 
@@ -22,7 +22,7 @@ My research interests lie in 3D Computer Vision, LiDAR mapping and LiDAR human c
 
 Cheng Wang\*, **Yudi Dai**, Naser El-Sheimy, Chenglu Wen, Guenther Retscher, Zhizhong Kang and Andrea Maria Lingua. “ISPRS BENCHMARK ON MULTISENSORY INDOOR MAPPING AND POSITIONING.”  *ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences* 5, no. 5 (2020).
 
-Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li. "Toward efficient 3-d colored mapping in GPS-/GNSS-denied environments." *IEEE Geoscience and Remote Sensing Letters* 17, no. 1 (2019): 147-151.
+Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li. "Toward efficient 3-d colored mapping in GPS-/GNSS-denied environments." *IEEE Geoscience and Remote Sensing Letters* 17, no. 1 (2019): 147-151. -->
 
 ## Misc
 
