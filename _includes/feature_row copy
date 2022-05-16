@@ -1,15 +1,9 @@
 {% include base_path %}
 
-{% if post.header.teaser %}
-  {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% if include.id %}
+  {% assign feature_row = page.[include.id] %}
 {% else %}
-  {% assign teaser = site.teaser %}
-{% endif %}
-
-{% if post.id %}
-  {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
-{% else %}
-  {% assign title = post.title %}
+  {% assign feature_row = page.feature_row %}
 {% endif %}
 
 <div class="feature__wrapper">
