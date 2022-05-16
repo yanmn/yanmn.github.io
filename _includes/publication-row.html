@@ -29,12 +29,12 @@
         {% else %}
           "{{"/images/temp.mp4" | prepend: base_path}}" 
         {% endif %}
-        width="90%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="" alt="Popup Image" class="img-fluid" >
+        width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="" alt="Popup Image" class="img-fluid" >
       </video>
       </div>
       <div class="archive__item-body">
-          <div class="archive__item-excerpt">{{title}}</div>
-          <!-- <strong>{{title}}</strong> -->
+          <!-- <div class="archive__item-excerpt">{{title}}</div> -->
+          <strong>{{title}}</strong>
           <br>
             {% if post.author %}
               {{post.author}}
@@ -48,16 +48,16 @@
           {% endif %}
           <!-- <p>  -->
             {% if post.project %}
-            <a href="{{ post.project }}" class="btn btn--inverse btn--xsmall ">Project</a>|
+            <a href="{{ post.project }}" class="btn btn--primary btn--small">Project</a>
             {% endif %}
             {% if post.youtube %}
-            <a href="{{ post.youtube }}" class="btn btn--inverse btn--border">Video</a>|
+            <a href="{{ post.youtube }}" class="btn btn--primary btn--small">Video</a>
             {% endif %}
             {% if post.paper %}
-            <a href="{{ post.paper }}" class="btn btn--inverse btn--border">Paper</a>
+            <a href="{{ post.paper }}" class="btn btn--primary btn--small">Paper</a>
             {% endif %}
             {% if post.code %}
-            |<a href="{{ post.code }}" class="btn btn--inverse btn--border">Code</a>
+            |<a href="{{ post.code }}" class="btn btn--primary btn--small">Code</a>
             {% endif %}
           <br>
       </div>
