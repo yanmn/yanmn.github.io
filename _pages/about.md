@@ -26,7 +26,7 @@ Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jo
 
 ## Misc
 
-I'm passionate about outdoor activities. When I am not doing research, I like rock climbing and working out. (More info [here](/outdoor))
+I'm passionate about outdoor activities. When I am not doing research, I will go rock climbing and work out. (More info [here](/outdoor))
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
