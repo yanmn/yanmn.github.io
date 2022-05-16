@@ -36,6 +36,8 @@
           <!-- <div class="archive__item-excerpt">{{title}}</div> -->
           <strong>{{title}}</strong>
           <br>
+          <div class="archive__item-excerpt">
+
             {% if post.author %}
               {{post.author}}
             {% else %}
@@ -45,6 +47,7 @@
           {% if post.venue and post.journal and post.date%}
             (<strong><i>{{ post.venue }}</i></strong> {{ post.date | default: "1900-01-01" | date: "%Y" }}) {{ post.journal }}
           <br>
+          </div>
           {% endif %}
           <!-- <p>  -->
             {% if post.project %}
