@@ -16,9 +16,9 @@ My research interests lie in 3D Computer Vision, LiDAR mapping and LiDAR human c
 
 ## Selected Publications
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include publication-row.html %}
-{% endfor %}
+{% endfor %} -->
 
 **Yudi Dai**, Yitai Lin, Chenglu Wen\*, Siqi Shen, Lan Xu, Jingyi Yu, Yuexin Ma, Cheng Wang. "HSC4D: Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR". *Accepted to CVPR 2022*
 
