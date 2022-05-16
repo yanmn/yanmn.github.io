@@ -6,7 +6,7 @@ author_profile: false
 
 header:
   # overlay_color: "#9EA0A3"
-  overlay_filter: rgba(0, 0, 0, 0.3)
+  # overlay_filter: rgba(0, 0, 0, 0.3)
   overlay_image: /images/gelandandong.jpg
 redirect_from:
   - /outdoor.html
