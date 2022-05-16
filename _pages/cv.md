@@ -1,8 +1,13 @@
 ---
-layout: archive
+layout: single
 title: "Outdoor activities"
 permalink: /outdoor/
 author_profile: false
+
+header:
+  # overlay_color: "#9EA0A3"
+  overlay_filter: rgba(0, 0, 0, 0.3)
+  overlay_image: /images/gelandandong.jpg
 redirect_from:
   - /outdoor.html
 ---
@@ -35,7 +40,7 @@ redirect_from:
 * *2021.05* Baihe, Beijing, China. (6 days)
   * 5.10b, Azure Dragon, 220m, 9 pitchs. — sent with Tanghui Lin.
 
-Base in Xiamen. Mostly climbs at Nantaiwu crag and Yunding crag on weekends.
+Base in Xiamen. Mostly climb at Nantaiwu crag and Yunding crag on weekends.
 
 ## Trad Climbing
 * *2020.05* Liming, Lijiang, Yunan, China. (One month)
