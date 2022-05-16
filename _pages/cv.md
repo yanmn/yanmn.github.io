@@ -1,13 +1,13 @@
 ---
-layout: single
+layout: splash
 title: "Outdoor activities"
 permalink: /outdoor/
 author_profile: false
 
 header:
   # overlay_color: "#9EA0A3"
+  overlay_image: /images/geladandong.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
-  overlay_image: /images/gelandandong.jpg
 redirect_from:
   - /outdoor.html
 ---
