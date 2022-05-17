@@ -9,4 +9,5 @@ author_profile: false
 
 {% for post in site.publications reversed %}
   {% include publication-row.html %}
+---
 {% endfor %}
