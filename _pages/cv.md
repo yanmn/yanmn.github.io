@@ -6,7 +6,7 @@ author_profile: false
 
 header:
   # overlay_color: "#9EA0A3"
-  overlay_image: /images/geladandong.jpg
+  image: /images/geladandong.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
 redirect_from:
   - /outdoor.html
@@ -27,8 +27,8 @@ redirect_from:
 <!-- * 2014.07 5.11d / 7a -->
 <!-- * 2017.05 5.12d / 7c -->
 * *2014.08* Yangshuo, Guilin, China. (1 month)
-  * Happy new year, 5.10b, 13m, 6 pitchs. — sent with Andrew. (Follow)
-  * Grandfathered In, 5.10d, 6 pitchs. — sent with Jun Li.
+  * Happy new year, 5.10b, 121m, 6 pitchs. — sent with Jun Li. 
+  * Grandfathered In, 5.10d, 138m, 6 pitchs. — sent with Andrew. 
 * *2017.05* Shigu, Lijiang, Yunnan, China. (1 month)
   * 5.12a/7a+, Under the Dome, flash.  — sent with Jiayao Wei.
 * *2017.06* Yangshuo, Guilin, China. (1 month)
@@ -44,7 +44,7 @@ Base in Xiamen. Mostly climb at Nantaiwu crag and Yunding crag on weekends.
 
 ## Trad Climbing
 * *2020.05* Liming, Lijiang, Yunan, China. (One month)
-  * Soul's awaken, 5.10a, 175m, six pitchs.  — sent with 老蒋.
+  * Soul's awakening, 5.10a, 175m, 6 pitchs.  — sent with Lao Jiang.
 
 ## Ice Climbing 
 * *2013.01* Tianxian Waterfall, Beijing, China. (3 days) 

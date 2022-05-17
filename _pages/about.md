@@ -1,9 +1,15 @@
 ---
 layout: single
 permalink: /
-title: "About me"
+title: "Yudi Dai"
 excerpt: "About me"
 author_profile: true
+
+header:
+  # overlay_color: "#9EA0A3"
+  image: /images/lab_view.jpg
+  overlay_filter: rgba(0, 0, 0, 0.3)
+
 redirect_from: 
   - /about/
   - /about.html
