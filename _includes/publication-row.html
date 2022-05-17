@@ -11,14 +11,10 @@
 {% else %}
   {% assign title = post.title %}
 {% endif %}
-<!-- <link rel="stylesheet" type="text/css" href="{{"/css/fontawesome.css" | prepend: base_path }}"> -->
 
-<!-- <link rel="stylesheet" type="text/css" href="{{"/css/pub_style.css" | prepend: base_path }}"> -->
 
 
 <div class="feature__item{% if include.type %}--{{ include.type }}{%else%}--left{% endif %}">
-  <!-- <link rel="stylesheet" type="text/css" href="{{"/css/style.css" | prepend: base_path }}">
-  <link rel="stylesheet" type="text/css" href="{{"/css/bootstrap.css" | prepend: base_path }}"> -->
     <div class="archive__item">
       <div class="archive__item-teaser"> 
         <video src=
@@ -34,10 +30,8 @@
       </div>
       <div class="archive__item-body">
           <!-- <div class="archive__item-excerpt">{{title}}</div> -->
-          <strong>{{title}}</strong>
-          <br>
+          <div class="archive__item-excerpt"><strong>{{title}}</strong></div>
           <div class="archive__item-excerpt">
-
             {% if post.author %}
               {{post.author}}
             {% else %}
@@ -65,4 +59,5 @@
           <br>
       </div>
     </div>
+    <hr>
 </div>

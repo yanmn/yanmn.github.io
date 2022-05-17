@@ -3,12 +3,12 @@ layout: splash
 title: "Outdoor activities"
 permalink: /outdoor/
 author_profile: false
-excerpt: "<br><br><br><br>>"
+excerpt: "<br><br><br><br><br>"
 
 header:
   # overlay_color: "#9EA0A3"
   overlay_image: /images/geladandong.jpg
-  overlay_filter: rgba(0, 0, 0, 0.3)
+  overlay_filter: rgba(0, 0, 0, 0.1)
 redirect_from:
   - /outdoor.html
 ---

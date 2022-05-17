@@ -7,15 +7,15 @@ author_profile: true
 
 header:
   # overlay_color: "#9EA0A3"
-  image: /images/lab_view.jpg
+  overlay_image: /images/lab_view.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
+  tagline: "<br><br><br><br><br>"
 
 redirect_from: 
   - /about/
   - /about.html
 ---
 
----
 I am a Ph.D. student (2019 - present) at Department of Computer Science, [Xiamen University](https://en.xmu.edu.cn/), working in the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). I started to do my M.S. in 2017 and turned to do Ph.D. in 2019. I obtained my B.E. in cognitive science from Xiamen University in 2016. 
 
 My research interests lie in 3D Computer Vision, LiDAR mapping and LiDAR human capture. I am currently working on in-the-wild LiDAR human-scene capture.
