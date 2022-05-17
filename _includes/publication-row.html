@@ -37,13 +37,12 @@
             {% else %}
               Please input authors
             {% endif %}
-          <br>
-          {% if post.venue and post.journal and post.date%}
+            <br>
+            {% if post.venue and post.journal and post.date%}
             (<strong><i>{{ post.venue }}</i></strong> {{ post.date | default: "1900-01-01" | date: "%Y" }}) {{ post.journal }}
-          <br>
+            <br>
           </div>
           {% endif %}
-          <!-- <p>  -->
             {% if post.project %}
             <a href="{{ post.project }}" class="btn btn--inverse btn--small">Project</a>
             {% endif %}
@@ -59,5 +58,5 @@
           <br>
       </div>
     </div>
-    <hr>
 </div>
+<hr>
