@@ -14,4 +14,4 @@ author_profile: false
 {% if site.publications %}
   {% assign publications = site.publications reversed %}
   {% include publication-row.html %}
-{%end if%}
+{% endif%}
