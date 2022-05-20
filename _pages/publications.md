@@ -12,6 +12,6 @@ author_profile: false
 {% endfor %} -->
 
 {% if site.publications %}
-  {% assign publications = site.publications reversed %}
+  {% assign publications = site.publications%}
   {% include publication-row.html %}
 {% endif%}
