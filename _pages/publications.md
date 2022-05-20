@@ -9,5 +9,9 @@ author_profile: false
 
 {% for post in site.publications reversed %}
   {% include publication-row.html %}
----
 {% endfor %}
+
+{% if site.publications %}
+  {% assign publications = site.publications reversed %}
+  {% include publication-row.html %}
+{%end if%}
