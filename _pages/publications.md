@@ -7,9 +7,9 @@ author_profile: false
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!-- {% for post in site.publications reversed %}
   {% include publication-row.html %}
-{% endfor %}
+{% endfor %} -->
 
 {% if site.publications %}
   {% assign publications = site.publications reversed %}
