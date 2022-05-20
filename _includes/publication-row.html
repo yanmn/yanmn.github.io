@@ -13,49 +13,46 @@
 {% endif %}
 
 
-
-<div class="feature__item{% if include.type %}--{{ include.type }}{%else%}--left{% endif %}">
+<div class="feature__wrapper">
+  <div class="feature__item{% if include.type %}--{{ include.type }}{%else%}--left{% endif %}">
     <div class="archive__item">
-      <div class="archive__item-teaser"> 
-        <video src=
-        {% if post.videopath and post.videopath contains "://" %}
-          "{{post.videopath}}"
-        {% elsif post.videopath%}
-          "{{post.videopath | prepend: base_path }}"
-        {% else %}
-          "{{"/images/temp.mp4" | prepend: base_path}}" 
-        {% endif %}
-        width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted="" alt="Popup Image" class="img-fluid" >
-      </video>
+      <div class="archive__item-teaser">
+        <video src={% if post.videopath and post.videopath contains "://" %} "{{post.videopath}}" {% elsif
+          post.videopath%} "{{post.videopath | prepend: base_path }}" {% else %} "{{" /images/temp.mp4" | prepend:
+          base_path}}" {% endif %} width="100%" playsinline="" autoplay="autoplay" loop="loop" preload="" muted=""
+          alt="Popup Image" class="img-fluid">
+        </video>
       </div>
       <div class="archive__item-body">
-          <!-- <div class="archive__item-excerpt">{{title}}</div> -->
-          <div class="archive__item-excerpt"><strong>{{title}}</strong></div>
-          <div class="archive__item-excerpt">
-            {% if post.author %}
-              {{post.author}}
-            {% else %}
-              Please input authors
-            {% endif %}
-            <br>
-            {% if post.venue and post.journal and post.date%}
-            (<strong><i>{{ post.venue }}</i></strong> {{ post.date | default: "1900-01-01" | date: "%Y" }}) {{ post.journal }}
-            <br>
-          </div>
+        <!-- <div class="archive__item-excerpt">{{title}}</div> -->
+        <div class="archive__item-excerpt"><strong>{{title}}</strong></div>
+        <div class="archive__item-excerpt">
+          {% if post.author %}
+          {{post.author}}
+          {% else %}
+          Please input authors
           {% endif %}
-            {% if post.project %}
-            <a href="{{ post.project }}" class="btn btn--inverse btn--small">Project</a>
-            {% endif %}
-            {% if post.youtube %}
-            <a href="{{ post.youtube }}" class="btn btn--inverse btn--small">Video</a>
-            {% endif %}
-            {% if post.paper %}
-            <a href="{{ post.paper }}" class="btn btn--inverse btn--small">Paper</a>
-            {% endif %}
-            {% if post.code %}
-            <a href="{{ post.code }}" class="btn btn--inverse btn--small">Code</a>
-            {% endif %}
           <br>
+          {% if post.venue and post.journal and post.date%}
+          (<strong><i>{{ post.venue }}</i></strong> {{ post.date | default: "1900-01-01" | date: "%Y" }}) {{
+          post.journal }}
+          <br>
+        </div>
+        {% endif %}
+        {% if post.project %}
+        <a href="{{ post.project }}" class="btn btn--inverse btn--small">Project</a>
+        {% endif %}
+        {% if post.youtube %}
+        <a href="{{ post.youtube }}" class="btn btn--inverse btn--small">Video</a>
+        {% endif %}
+        {% if post.paper %}
+        <a href="{{ post.paper }}" class="btn btn--inverse btn--small">Paper</a>
+        {% endif %}
+        {% if post.code %}
+        <a href="{{ post.code }}" class="btn btn--inverse btn--small">Code</a>
+        {% endif %}
+        <br>
       </div>
     </div>
+  </div>
 </div>
