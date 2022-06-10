@@ -16,13 +16,13 @@ redirect_from:
 {% include base_path %}
 
 ## Mountaineering
-* *2013.08*  Mt. Jiangsanglamu / 姜桑拉姆峰，Tibet，6526m, summited
+* *2013.08*  Mt. Jiangsanglamu / 姜桑拉姆峰，Tibet, China. 6526m, summited.
 * *2015.08*  Mt. Geladaindong / 格拉丹东峰 Qinghai, China. 6621m, summited.
-* *2015.10* Mt. Xuebaoding / 雪宝顶, Sichuan, China. 5588m, climb to 5400m
-* *2018.01*  Banji Peak / 半脊峰, Sichuan, China. 5430m，climb to 4800m.
-* *2018.10* Mt. Xuebaoding / 雪宝顶, Sichuan, China. 5521m, climb to 4200m (BC)
+* *2015.10*  Mt. Xuebaoding / 雪宝顶, Sichuan, China. 5588m, climbed to 5400m
+* *2018.01*  Banji Peak / 半脊峰, Sichuan, China. 5430m，climbed to 4800m.
+* *2018.10*  Mt. Xuebaoding / 雪宝顶, Sichuan, China. 5521m, climbed to 4200m (BC).
 * *2019.08*  Mt. Haba / 哈巴雪山, Yunnan, China. 5396m, solo summited.
-* *2020.08*  Mt. Animaqing / 阿尼玛卿峰, Qinghai, China. 6282m, climb to 5700m
+* *2020.08*  Mt. Animaqing / 阿尼玛卿峰, Qinghai, China. 6282m, climbed to 5700m.
 
 ## Sport Climbing 
 <!-- * 2014.07 5.11d / 7a -->
