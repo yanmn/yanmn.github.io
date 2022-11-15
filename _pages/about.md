@@ -30,9 +30,10 @@ Cheng Wang\*, **Yudi Dai**, Naser El-Sheimy, Chenglu Wen, Guenther Retscher, Zhi
 
 Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li. "Toward efficient 3-d colored mapping in GPS-/GNSS-denied environments." *IEEE Geoscience and Remote Sensing Letters* 17, no. 1 (2019): 147-151. -->
 
-## Misc
+## Personal
 
-I'm passionate about outdoor activities. When I am not doing research, I will go rock climbing and work out. (More info [here](/outdoor))
+I'm passionate about outdoor activities. When I am not doing research, I will go rock climbing and work out. 
+(More info [here](/outdoor))
 
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
