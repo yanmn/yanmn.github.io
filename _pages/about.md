@@ -16,9 +16,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student (2019 - present) at Department of Computer Science, [Xiamen University](https://en.xmu.edu.cn/), working in the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). I started to do my M.S. in 2017 and turned to do Ph.D. in 2019. I obtained my B.E. in cognitive science from Xiamen University in 2016. 
+I am a Ph.D. student (since 2019) in the Department of Computer Science at [Xiamen University](https://en.xmu.edu.cn/), where I am part of the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). I obtained my B.E. in Cognitive Science from Xiamen University in 2016, and started my M.S. studies in 2017 before transitioning to the Ph.D. program.
 
-My research interests lie in 3D Computer Vision, LiDAR mapping and LiDAR human capture. I am currently working on in-the-wild LiDAR human-scene capture.
+My research interests primarily focus on 3D Computer Vision, including LiDAR mapping, scene-aware 4D human pose estimation and and human-scene interaction capture. My goal is to develop robust methods for perceive and understand human behavior in complex environments.
 
 <!-- ## Selected Publications
 
@@ -31,10 +31,8 @@ Cheng Wang\*, **Yudi Dai**, Naser El-Sheimy, Chenglu Wen, Guenther Retscher, Zhi
 Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li. "Toward efficient 3-d colored mapping in GPS-/GNSS-denied environments." *IEEE Geoscience and Remote Sensing Letters* 17, no. 1 (2019): 147-151. -->
 
 ## Personal
-
-I'm passionate about outdoor activities. When I am not doing research, I will go rock climbing and work out. 
+I love spending time outdoors and staying active. When I am not doing research, you'll often find me rock climbing or working out.
 (More info [here](/outdoor))
-
 
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
 
