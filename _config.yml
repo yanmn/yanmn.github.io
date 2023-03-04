@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yudi Dai"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yudi Dai"
 description              : &description "personal description"
