@@ -24,7 +24,7 @@ My research interests focus on 3D Computer Vision, including LiDAR mapping, Scen
 My goal is to develop robust methods to perceive and understand human behavior in complex environments. Feel free to reach out to me if you're interested in research discussions and exploring potential collaborations.
 
 Additionally, I am a huge fan of outdoor sports, particularly rock climbing, hiking, and mountaineering. If you love sports or have any mountaineering projects, please also feel free to contact me. I'm always looking for adventure partners to explore new trails on science and mountain.
-(Outdoor [CV here](/outdoor)) 
+([Outdoor CV](/outdoor)) 
 
 <!-- ## Selected Publications
 
