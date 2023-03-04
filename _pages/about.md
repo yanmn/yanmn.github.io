@@ -16,9 +16,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student (since 2019) in the Department of Computer Science at [Xiamen University](https://en.xmu.edu.cn/), where I am part of the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). I obtained my B.E. in Cognitive Science from Xiamen University in 2016, and started my M.S. studies in 2017 before transitioning to the Ph.D. program.
+I am a Ph.D. student (since 2019) in the Department of Computer Science at [Xiamen University](https://en.xmu.edu.cn/), where I am part of the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). I obtained my B.E. in Cognitive Science from Xiamen University in 2016, and started my M.S. studies in 2017 before transitioning to the Ph.D. program. 
+I'm starting a six-month visiting advised by Prof. [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html) in the [Real Virtual Humans](https://virtualhumans.mpi-inf.mpg.de/) group at the University of Tübingen.
 
-My research interests primarily focus on 3D Computer Vision, including LiDAR mapping, scene-aware 4D human pose estimation and and human-scene interaction capture. My goal is to develop robust methods for perceive and understand human behavior in complex environments.
+
+My research interests focus on 3D Computer Vision, including:
+- LiDAR mapping,
+- Scene-aware 4D human motion capturing,
+- Human-scene interaction modeling. 
+
+My goal is to develop robust methods to perceive and understand human behavior in complex environments. I'm open to all research discussions and collaborations. Feel free to reach out to me if you're interested in exploring potential partnerships.
+
+I am also a huge fan of outdoor sports, I enjoy rock climbing, hiking, and mountaineering. If you share a similar passion for these activities or have any outdoor plans in mind, please feel free to contact me. I'm always looking for adventure partners to explore new trails on science and mountain.
+(Outdoor [CV](/outdoor) here) 
 
 <!-- ## Selected Publications
 
@@ -30,11 +40,8 @@ Cheng Wang\*, **Yudi Dai**, Naser El-Sheimy, Chenglu Wen, Guenther Retscher, Zhi
 
 Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li. "Toward efficient 3-d colored mapping in GPS-/GNSS-denied environments." *IEEE Geoscience and Remote Sensing Letters* 17, no. 1 (2019): 147-151. -->
 
-## Personal
-I love spending time outdoors and staying active. When I am not doing research, you'll often find me rock climbing or working out.
-(More info [here](/outdoor))
-
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
