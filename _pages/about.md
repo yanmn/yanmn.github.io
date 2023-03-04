@@ -20,12 +20,11 @@ I am a Ph.D. student (since 2019) in the Department of Computer Science at [Xiam
 I'm starting a six-month visiting position advised by Prof. [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html) in the [Real Virtual Humans](https://virtualhumans.mpi-inf.mpg.de/) group at the University of Tübingen.
 
 
-My research interests focus on 3D Computer Vision, including **LiDAR mapping**, **Scene-aware 4D human motion capturing** and **Human-scene interaction modeling.** 
-
+My research interests focus on 3D Computer Vision, including LiDAR mapping, Scene-aware 4D human motion capturing and Human-scene interaction modeling. 
 My goal is to develop robust methods to perceive and understand human behavior in complex environments. Feel free to reach out to me if you're interested in research discussions and exploring potential collaborations.
 
 Additionally, I am a huge fan of outdoor sports, particularly rock climbing, hiking, and mountaineering. If you love sports or have any mountaineering projects, please also feel free to contact me. I'm always looking for adventure partners to explore new trails on science and mountain.
-(Outdoor [CV](/outdoor) here) 
+(Outdoor [CV here](/outdoor)) 
 
 <!-- ## Selected Publications
 
@@ -37,8 +36,11 @@ Cheng Wang\*, **Yudi Dai**, Naser El-Sheimy, Chenglu Wen, Guenther Retscher, Zhi
 
 Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li. "Toward efficient 3-d colored mapping in GPS-/GNSS-denied environments." *IEEE Geoscience and Remote Sensing Letters* 17, no. 1 (2019): 147-151. -->
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/3.js?i=5xqjws4jj9m&amp;b=5&amp;s=0&amp;m=1&amp;cl=ffffff&amp;co=010020&amp;cd=aa0000&amp;v0=60&amp;v1=60&amp;r=1" async="async"></script>
+
+<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5xqjws4jj9m" async="async"></script> -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
 
