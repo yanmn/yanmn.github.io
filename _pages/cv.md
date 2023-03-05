@@ -3,6 +3,7 @@ layout: splash
 title: "Outdoor activities"
 permalink: /outdoor/
 author_profile: false
+navigation: false
 excerpt: "<br><br><br><br><br>"
 
 header:

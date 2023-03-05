@@ -17,7 +17,7 @@ redirect_from:
 ---
 
 I am a Ph.D. student (since 2019) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) at [Xiamen University](https://en.xmu.edu.cn/), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). I obtained my B.E. in Cognitive Science from Xiamen University in 2016, and started my M.S. studies in 2017 before transitioning to the Ph.D. program. 
-I'm starting a six-month visit at the [Real Virtual Humans](https://virtualhumans.mpi-inf.mpg.de/) group at the University of Tübingen hosted by Prof. [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html).
+I'm starting a six-month visit at the [Real Virtual Humans](https://virtualhumans.mpi-inf.mpg.de/) group at the [University of Tübingen](https://uni-tuebingen.de/) hosted by Prof. [Gerard Pons-Moll](https://virtualhumans.mpi-inf.mpg.de/people/pons-moll.html).
 
 
 My research interests focus on 3D Computer Vision, including LiDAR mapping, Scene-aware 4D human motion capturing and Human-scene interaction modeling. 
@@ -26,7 +26,7 @@ My goal is to develop robust methods to perceive and understand human behavior i
 Additionally, I am a huge fan of outdoor sports, particularly rock climbing, hiking, and mountaineering. ([Outdoor CV](/outdoor))
 
 I'm always looking for adventure partners to explore new trails on science and mountain.
-Feel free to reach out to me for discussions or collaborations
+Feel free to reach out to me for discussions or collaborations.
 
 <!-- ## Selected Publications
 
