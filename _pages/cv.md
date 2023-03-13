@@ -3,17 +3,20 @@ layout: splash
 title: "Outdoor activities"
 permalink: /outdoor/
 author_profile: false
-excerpt: "<br><br><br><br><br>"
+navigation: false
+excerpt: "<br><br><br><br><br><br><br><br><br><br>"
 
 header:
   # overlay_color: "#9EA0A3"
   overlay_image: /images/geladandong.jpg
   overlay_filter: rgba(0, 0, 0, 0.1)
+  caption: "Photo by: [2015 XMU Mountaineering Team](http://www.xuma.cn/bbs/forum.php?mod=forumdisplay&fid=62)"
 redirect_from:
   - /outdoor.html
 ---
 
 {% include base_path %}
+{% include toc %}
 
 ## Mountaineering
 * *2020.08*  [Mt. Animaqing](https://www.mountain-forecast.com/peaks/Amne-Machin/forecasts/6282) / 阿尼玛卿峰, Qinghai, China. 6282m, climbed to 5700m.
