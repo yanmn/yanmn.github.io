@@ -33,16 +33,16 @@
         </div>
         {% endif %}
         {% if post.project %}
-        <a href="{{ post.project }}" class="btn btn--info btn--small">Project</a>
+        <a href="{{ post.project }}" class="btn btn--info btn--xsmall"><i class="fab fa-fw fa-chrome" aria-hidden="true"></i> Project</a>
         {% endif %}
         {% if post.youtube %}
-        <a href="{{ post.youtube }}" class="btn btn--youtube btn--small">Video</a>
+        <a href="{{ post.youtube }}" class="btn btn--youtube btn--xsmall"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> Video</a>
         {% endif %}
         {% if post.paper %}
-        <a href="{{ post.paper }}" class="btn btn--arxiv btn--small"><i class="fab fa-fw fa-readme" aria-hidden="true"></i> Paper</a>
+        <a href="{{ post.paper }}" class="btn btn--arxiv btn--xsmall"><i class="fab fa-fw fa-readme" aria-hidden="true"></i> Paper</a>
         {% endif %}
         {% if post.code %}
-        <a href="{{ post.code }}" class="btn btn--github btn--small"> <i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
+        <a href="{{ post.code }}" class="btn btn--github btn--xsmall"> <i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
         {% endif %}
         <br>
       </div>
