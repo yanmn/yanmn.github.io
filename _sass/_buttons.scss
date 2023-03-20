@@ -39,8 +39,12 @@
     (danger, $danger-color),
     (info, $info-color),
     (facebook, $facebook-color),
+    (chrome, $chrome-color),
+    (arxiv, $arxiv-color),
+    (youtube, $youtube-color),
     (twitter, $twitter-color),
-    (linkedin, $linkedin-color);
+    (linkedin, $linkedin-color),
+    (github, $github-color);
   
     @each $buttoncolor, $color in $buttoncolors {
       &--#{$buttoncolor} {
