@@ -13,7 +13,11 @@ header:
 
 redirect_from: 
   - /about/
+  - /yudidai/
+  - /daiyudi/
   - /about.html
+  - /yudidai.html
+  - /daiyudi.html
 ---
 
 I am a Ph.D. student (since 2019) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) at [Xiamen University](https://en.xmu.edu.cn/), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Prof. [Chenglu Wen](https://asc.xmu.edu.cn/t/wenchenglu). I obtained my B.E. in Cognitive Science from Xiamen University in 2016, and started my M.S. studies in 2017 before transitioning to the Ph.D. program. 
