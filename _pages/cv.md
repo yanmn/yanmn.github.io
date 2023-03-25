@@ -69,6 +69,8 @@ redirect_from:
 * *2014.01* Marathon, Xiamen, China. 42.195km. (5:24:52)
 * *2013.01* Half marathon, Xiamen, China. 21.0975km. (Around 1h 50min)
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/3.js?i=5niseeqccwe&amp;b=5&amp;s=0&amp;m=2&amp;cl=ffffff&amp;co=010020&amp;cd=aa0000&amp;v0=60&amp;v1=60&amp;r=1" async="async"></script>
+
 <!-- Education
 ======
 * B.S. in GitHub, GitHub University, 2012
