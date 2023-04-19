@@ -11,9 +11,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Yudi Dai"
 description              : &description "personal description"
-url                      : https://climbingdaily.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yanmn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "climbingdaily/climbingdaily.github.io"
+repository               : "yanmn/yanmn.github.io"
 teaser                   :  "/images/overview.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 180
