@@ -1,13 +1,13 @@
 ---
 layout: single
 permalink: /
-title: "Yudi Dai"
-excerpt: "Love life more than the meaning of it."
+title: "Ming Yan"
+excerpt: "😝"
 author_profile: true
 
 header:
   # overlay_color: "#9EA0A3"
-  overlay_image: /images/lab_view.jpg
+  overlay_image: /images/XMU_Night.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
   tagline: "<br><br><br><br><br>"
 
