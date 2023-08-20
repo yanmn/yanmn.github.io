@@ -8,7 +8,7 @@ author_profile: true
 header:
   # overlay_color: "#9EA0A3"
   overlay_image: /images/ym_profile2.jpg
-  overlay_filter: rgba(0, 0, 0, 0.3)
+  overlay_filter: rgba(0, 0, 0, 0.1)
   # tagline: "<br><br><br><br><br>"
 
 redirect_from: 
