@@ -48,7 +48,7 @@ Cheng Wang\*, **Yudi Dai**, Naser El-Sheimy, Chenglu Wen, Guenther Retscher, Zhi
 Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li. "Toward efficient 3-d colored mapping in GPS-/GNSS-denied environments." *IEEE Geoscience and Remote Sensing Letters* 17, no. 1 (2019): 147-151. -->
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
-
+<br><br><br><br><br><br><br><br><br><br><br>
 <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5p1sig22te9&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5xqjws4jj9m" async="async"></script> -->
