@@ -24,6 +24,7 @@ I am a Ph.D. student (since 2022) at the spAtial Sensing and Computing Lab ([ASC
 
 As an life-loving INFJ, I am always curious about the people and things around me.🙌
 
+test
 <!-- I obtained my B.E. in Cognitive Science from Xiamen University in 2016, and started my M.S. studies in 2017 before transitioning to the Ph.D. program. 
 
 My research interests focus on 3D Computer Vision, including LiDAR mapping, Scene-aware 4D human motion capturing and Human-scene interaction modeling. 
