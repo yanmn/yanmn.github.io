@@ -7,17 +7,17 @@ author_profile: true
 
 header:
   # overlay_color: "#9EA0A3"
-  overlay_image: /images/XM_Plane2.jpg
+  overlay_image: /images/ym_profile2.jpg
   overlay_filter: rgba(0, 0, 0, 0.3)
-  tagline: "<br><br><br><br><br>"
+  # tagline: "<br><br><br><br><br>"
 
 redirect_from: 
   - /about/
-  - /yudidai/
-  - /daiyudi/
+  - /yanmn/
+  - /yanming/
   - /about.html
-  - /yudidai.html
-  - /daiyudi.html
+  - /yanmn.html
+  - /yanming.html
 ---
 
 I am a Ph.D. student (since 2022) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) at [Xiamen University](https://en.xmu.edu.cn/), advised by Prof. [Cheng Wang](http://www.cwang93.net/index_en.htm) and Assistant Prof. [Siqi Shen](https://asc.xmu.edu.cn/t/shensiqi).
@@ -49,7 +49,7 @@ Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jo
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/3.js?i=5xqjws4jj9m&amp;b=5&amp;s=0&amp;m=1&amp;cl=ffffff&amp;co=010020&amp;cd=aa0000&amp;v0=60&amp;v1=60&amp;r=1" async="async"></script>
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5p1sig22te9&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
 <!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5xqjws4jj9m" async="async"></script> -->
 
