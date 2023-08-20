@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: "Ming Yan"
-excerpt: "😝<br><br><br><br><br><br>"
+excerpt: "😝<br><br><br><br>"
 author_profile: true
 
 
