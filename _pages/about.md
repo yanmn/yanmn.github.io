@@ -26,6 +26,13 @@ I am a Ph.D. student (since 2022) at the spAtial Sensing and Computing Lab ([ASC
 
 As an life-loving INFJ, I am always curious about the people and things around me.🙌
 
+<br>
+
+# News
+**02 / 2024** RELI11D accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024). <br>
+**06 / 2023** CIMI4D are available. <br>
+**02 / 2023** CIMI4D accepted by [CVPR 2023](https://cvpr2023.thecvf.com/). <br>
+
 
 <!-- I obtained my B.E. in Cognitive Science from Xiamen University in 2016, and started my M.S. studies in 2017 before transitioning to the Ph.D. program. 
 
