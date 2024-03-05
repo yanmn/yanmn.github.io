@@ -45,6 +45,9 @@
         {% if post.code %}
         <a href="{{ post.code }}" class="btn btn--github btn--xsmall"> <i class="fab fa-fw fa-github" aria-hidden="true"></i> Code</a>
         {% endif %}
+        {% if post.data %}
+        <a href="{{ post.data }}" class="btn btn--github btn--xsmall"> <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> Data</a>
+        {% endif %}
         <br>
       </div>
     </div>
