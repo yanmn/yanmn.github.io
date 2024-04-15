@@ -22,7 +22,7 @@ redirect_from:
   - /yanming.html
 ---
 
-I am a Ph.D. student (since 2022) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) at [Xiamen University](https://en.xmu.edu.cn/), advised by Prof. [Cheng Wang](http://chwang.xmu.edu.cn/) and Assistant Prof. [Siqi Shen](https://asc.xmu.edu.cn/t/shensiqi).
+I am a Ph.D. student (since 2022) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) at [Xiamen University](https://en.xmu.edu.cn/), advised by Prof. [Cheng Wang](http://chwang.xmu.edu.cn/) and Associate Prof. [Siqi Shen](https://asc.xmu.edu.cn/t/shensiqi).
 
 As an life-loving INFJ, I am always curious about the people and things around me.🙌
 
