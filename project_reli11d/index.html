@@ -192,41 +192,128 @@
         <h2 class="title is-3">Abstract</h2>
         <div class="content has-text-justified">
           <p>
-            Comprehensive capturing of human motions requires both accurate captures of complex poses and precise localization of the human within scenes. Most of the HPE datasets and methods primarily rely on RGB, LiDAR, or IMU data. However, solely using these modalities or a combination of them may not be adequate for HPE, particularly for complex and fast movements. For holistic human motion understanding, we present <b>RELI11D</b>>, a high-quality multimodal human motion dataset involves <b>R</b>GB camera, <b>E</b>vent camera, <b>L</b>iDAR and <b>I</b>MU system. It records the motions of 10 actors performing 5 sports in 7 scenes, including 3.32 hours of synchronized LiDAR point clouds, IMU measurement data, RGB videos and Event steams. Through extensive experiments, we demonstrate that the RELI11D presents considerable challenges and opportunities as it contains many rapid and complex motions that require precise location. To address the challenge of integrating different modalities, we propose LEIR, a multimodal baseline that effectively utilizes LiDAR Point Cloud, Event stream, and RGB through our cross-attention fusion strategy. We show that LEIR exhibits promising results for rapid motions and daily motions and that utilizing the characteristics of multiple modalities can indeed improve HPE performance. Both the dataset and source code will be released publicly to the research community, fostering collaboration and enabling further exploration in this field.
+            Comprehensive capturing of human motions requires both accurate captures of complex poses and precise localization of the human within scenes. Most of the HPE datasets and methods primarily rely on RGB, LiDAR, or IMU data. However, solely using these modalities or a combination of them may not be adequate for HPE, particularly for complex and fast movements. For holistic human motion understanding, we present <b>RELI11D</b>, a high-quality multimodal human motion dataset involves <b>R</b>GB camera, <b>E</b>vent camera, <b>L</b>iDAR and <b>I</b>MU system. It records the motions of 10 actors performing 5 sports in 7 scenes, including 3.32 hours of synchronized LiDAR point clouds, IMU measurement data, RGB videos and Event steams. Through extensive experiments, we demonstrate that the RELI11D presents considerable challenges and opportunities as it contains many rapid and complex motions that require precise location. To address the challenge of integrating different modalities, we propose LEIR, a multimodal baseline that effectively utilizes LiDAR Point Cloud, Event stream, and RGB through our cross-attention fusion strategy. We show that LEIR exhibits promising results for rapid motions and daily motions and that utilizing the characteristics of multiple modalities can indeed improve HPE performance. Both the dataset and source code will be released publicly to the research community, fostering collaboration and enabling further exploration in this field.
           </p>
         </div>
       </div>
     </div>
-
-  <div class="container is-max-desktop">
-    <!-- Pipeline. -->
-    <div class="hero-body">
-      <h2 class="title is-3">Pipeline</h2>
-      <img src="static/images/pipeline.png" width="100%">
-      <h2 class="subtitle has-text-centered">
-        I'm-HOI combines general motion inference and category-aware refinement.
-        For the former, we introduce a holistic human-object tracking method to fuse IMU signals with RGB stream, then recover the human and companion object motions progressively.
-        For the latter, we tailor a category-aware motion diffusion model, which is conditioned on both the raw IMU observations and the results from the previous stage under over-parameterization representation.
-        It significantly refines the initial results and generates vivid body, hand, and object motions.
-      </h2>
-    </div>
   </div>
 
   <div class="container is-max-desktop">
-    <!-- Dataset. -->
     <div class="hero-body">
-      <h2 class="title is-3">IMHD<sup>2</sup> Dataset</h2>
-      <img src="static/images/dataset_gallery_full.png" width="100%">
+      <h2 class="title is-3">Introduction</h2>
+      <h2 class="subtitle has-text-centered">
+        Fast and complex movements can be seen everywhere in reality. However, it is difficult to fully capture human body movements. It requires both accurately capturing complex postures and accurately positioning the human body in the scene.
+      </h2>
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
-        <source src="./static/videos/dataset.mp4" type="video/mp4">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p1.mp4" type="video/mp4">
       </video>
       <h2 class="subtitle has-text-centered">
-        We exhibit sampled highlights of <i><b>I</b>nertial and <b>M</b>ulti-view <b>H</b>ighly <b>D</b>ynamic human-object interactions <b>D</b>ataset (<b>IMHD<sup>2</sup></b>)</i> on the left side, and 10 well-scanned objects on the right side. In total, our dataset records 295 sequences and captures about 892k frames of data.
+        Multimodal datasets can take advantage of single sensors and provide a better comprehensive understanding of human movements. RGB cameras capture appearance information. Event cameras can capture motions with high temporal resolution and dynamic range by measuring intensity change asynchronously. This fills the gaps between RGB camera frames. LiDAR is insensitive to light and can provide global geometry and trajectory information. The IMU System can achieve smooth local movements. Combining the two can make up for the shortcomings of the IMU in global coordinates.
+      </h2>
+      <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p2.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        So, the community needs a high-quality dataset and method to fill the gap in the 3D multimodal Rapid and Complex Human Motions.
       </h2>
     </div>
   </div>
 
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <h2 class="title is-3">Dataset Overview</h2>
+      <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p3.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        For holistic human motion understanding, we present RELI11D. It records the motions of 10 actors performing 5 sports in 7 scenes, including 3.32 hours of synchronized four different modality and provides precise annotations.
+      </h2>
+    </div>
   </div>
+
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <h2 class="title is-3">Hardware System</h2>
+      <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p4.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        We built a portable collection system that integrates different modal hardware devices to collect in different real-world scenarios. Our MoCap system contains 17 IMUs, which record important 3D human body joint points.
+      </h2>
+    </div>
+  </div>
+
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <h2 class="title is-3">Data Annotation Pipeline</h2>
+      <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p5.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        In the Data Annotation Pipeline section. First, we input the raw data collected by different hardware devices. Highly accurate reconstructed point cloud scenes are also included. In the Data Pre-processing stage, we first separate the human point cloud from the LiDAR scene and register it with the high-precision scene. Then, synchronize and calibrate each modality. We propose a Consolidated Optimization, which includes global Pose Loss geo, human joint Loss smoo, scene awareness Loss contact, and global trajectory Loss trans. Finally, we get Global Human Poses and Trajectories that are automatically and accurately annotated.
+      </h2>
+    </div>
+  </div>
+
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <h2 class="title is-3">RELI11D GALLERY</h2>
+      <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p6.mp4" type="video/mp4">
+      </video>
+    </div>
+  </div>
+
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <h2 class="title is-3">Baseline LEIR</h2>
+      <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p7.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        In order to effectively integrate the data of each modality and use it for global human pose estimation, we propose a Baseline, LEIR. First, input data from different modalities. Next, we use the feature extractor corresponding to different modalities to obtain features. The modal features enter the Temporal Unified Multimodal Model, and we propose the MMCA Unit to fuse the features. Finally, in the SMPL-Based Inverse Kinematics Solver, we design a variety of Loss to constrain data of different dimensions and finally predict the global human poses. 
+      </h2>
+    </div>
+  </div>
+
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <h2 class="title is-3">RELI11D Evaluation</h2>
+      <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p8.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        In the qualitative experiment, we show the different stages of data set annotation, and it can be seen that our annotation has the results closest to real actions. We also manually annotate RELI11D. Table 3 shows the ablation experiments of different losses in the Consolidated Optimization Stage. The results show that both manual annotation and optimized Loss can improve the quality of the dataset.
+      </h2>
+    </div>
+  </div>
+
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <h2 class="title is-3">Benchmark</h2>
+      <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p9.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        In the Benchmarks experiment, we compare the human pose estimation method based on 2D video and the method based on global human pose estimation. It can be seen from the visualization experiments that existing methods cannot estimate fast-moving limb movements well, and almost all methods cannot estimate high-leg movements. 
+        The last experiment is the evaluation of Baseline LEIR. First, we experiment with different inputs of LEIR, and the model index of three-modal input was the best. This result confirms the importance of multi-modal methods in human pose estimation. In addition, we conduct cross-dataset validation, and our method also performs better on other datasets.
+      </h2>
+    </div>
+  </div>
+
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <h2 class="title is-3">Global Trajrctory Experiment</h2>
+      <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
+        <source src="./static/videos/RELI11D_CVPR2024_480p_p10.mp4" type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        Furthermore, we perform visualization experiments on the prediction results of global trajectories. Combine with the analysis of the previous quantitative experimental results, it is show that the multi-modal method can be of considerable help in global human pose estimation.
+      </h2>
+    </div>
+  </div>
+
 </section>
 
 
@@ -264,69 +351,8 @@
 </section> -->
 
 
-<section class="section">
-  <div class="container is-max-desktop">
-
-    <!-- <div class="columns is-centered"> -->
-
-      <!-- Visual Effects. -->
-      <!-- <div class="column">
-        <div class="content">
-          <h2 class="title is-3">Visual Effects</h2>
-          <p>
-            Using <i>nerfies</i> you can create fun visual effects. This Dolly zoom effect
-            would be impossible without nerfies since it would require going through a wall.
-          </p>
-          <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
-            <source src="./static/videos/dollyzoom-stacked.mp4"
-                    type="video/mp4">
-          </video>
-        </div>
-      </div> -->
-      <!--/ Visual Effects. -->
-
-      <!-- Matting. -->
-      <!-- <div class="column">
-        <h2 class="title is-3">Matting</h2>
-        <div class="columns is-centered">
-          <div class="column content">
-            <p>
-              As a byproduct of our method, we can also solve the matting problem by ignoring
-              samples that fall outside of a bounding box during rendering.
-            </p>
-            <video id="matting-video" controls playsinline height="100%">
-              <source src="./static/videos/matting.mp4"
-                      type="video/mp4">
-            </video>
-          </div>
-
-        </div>
-      </div> -->
-    <!--/ Matting. -->
-
-
-    <!-- Matting. -->
-    <!-- <div class="column">
-      <h2 class="title is-3">Matting</h2>
-      <div class="columns is-centered">
-        <div class="column content">
-          <p>
-            As a byproduct of our method, we can also solve the matting problem by ignoring
-            samples that fall outside of a bounding box during rendering.
-          </p>
-          <video id="matting-video" controls playsinline height="100%">
-            <source src="./static/videos/matting.mp4"
-                    type="video/mp4">
-          </video>
-        </div>
-
-      </div>
-    </div> -->
-  <!--/ Matting. -->
-<!-- </div> -->
-
     <!-- Comparison. -->
-    <div class="columns is-centered">
+    <!-- <div class="columns is-centered">
       <div class="column is-full-width">
         <h2 class="title is-3">Capture Results</h2>
         <div class="content has-text-centered">
@@ -382,9 +408,9 @@
         </h2>
       </div>
     </div>
-    <!--/ Animation. -->
-  </div>
-</section>
+    / Animation. -->
+  <!-- </div>
+</section> -->
 
 <!-- Related work -->
 <!-- <section class="section">
@@ -405,17 +431,20 @@
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">Citation</h2>
-    <pre><code>@article{zhao2023imhoi,
-      title={I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions},
-      author={Zhao, Chengfeng and Zhang, Juze and Du, Jiashen and Shan, Ziwei and Wang, Junye and Yu, Jingyi and Wang, Jingya and Xu, Lan},
-      journal={arXiv preprint arXiv:2312.08869},
-      year={2023}
+    <pre><code>
+      @inproceedings{yan2024reli11d,
+        title={RELI11D: A Comprehensive Multimodal Human Motion Dataset and Method},
+        author={Yan, Ming and Zhang, Yan and Cai, Shuqiang and Fan, Shuqi and Lin, Xincheng and Dai, Yudi and Shen, Siqi and Wen, Chenglu and Xu, Lan and Ma, Yuexin and others},
+        booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+        pages={2250--2262},
+        year={2024}
+      }
     }</code></pre>
   </div>
 </section>
 
 <!-- Acknowledgments -->
-<section class="section">
+<!-- <section class="section">
   <div class="container is-max-desktop content">
     <h2 class="title">Acknowledgments</h2>
     <p>
@@ -424,7 +453,7 @@
       We thank Xiao Yu, Yuntong Liu and Xiaofan Gu for data checking and annotations.
     </p>
   </div>
-</section>
+</section> -->
 
 
 <!-- <footer class="footer">
