@@ -208,13 +208,13 @@
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
         <source src="./static/videos/RELI11D_CVPR2024_480p_p1.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h2 class="container is-max-desktop content">
         Multimodal datasets can take advantage of single sensors and provide a better comprehensive understanding of human movements. RGB cameras capture appearance information. Event cameras can capture motions with high temporal resolution and dynamic range by measuring intensity change asynchronously. This fills the gaps between RGB camera frames. LiDAR is insensitive to light and can provide global geometry and trajectory information. The IMU System can achieve smooth local movements. Combining the two can make up for the shortcomings of the IMU in global coordinates.
       </h2>
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
         <source src="./static/videos/RELI11D_CVPR2024_480p_p2.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h2 class="container is-max-desktop content">
         So, the community needs a high-quality dataset and method to fill the gap in the 3D multimodal Rapid and Complex Human Motions.
       </h2>
     </div>
@@ -226,7 +226,7 @@
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
         <source src="./static/videos/RELI11D_CVPR2024_480p_p3.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h2 class="container is-max-desktop content">
         For holistic human motion understanding, we present RELI11D. It records the motions of 10 actors performing 5 sports in 7 scenes, including 3.32 hours of synchronized four different modality and provides precise annotations.
       </h2>
     </div>
@@ -238,7 +238,7 @@
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
         <source src="./static/videos/RELI11D_CVPR2024_480p_p4.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h2 class="container is-max-desktop content">
         We built a portable collection system that integrates different modal hardware devices to collect in different real-world scenarios. Our MoCap system contains 17 IMUs, which record important 3D human body joint points.
       </h2>
     </div>
@@ -250,7 +250,7 @@
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
         <source src="./static/videos/RELI11D_CVPR2024_480p_p5.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h2 class="container is-max-desktop content">
         In the Data Annotation Pipeline section. First, we input the raw data collected by different hardware devices. Highly accurate reconstructed point cloud scenes are also included. In the Data Pre-processing stage, we first separate the human point cloud from the LiDAR scene and register it with the high-precision scene. Then, synchronize and calibrate each modality. We propose a Consolidated Optimization, which includes global Pose Loss geo, human joint Loss smoo, scene awareness Loss contact, and global trajectory Loss trans. Finally, we get Global Human Poses and Trajectories that are automatically and accurately annotated.
       </h2>
     </div>
@@ -271,7 +271,7 @@
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
         <source src="./static/videos/RELI11D_CVPR2024_480p_p7.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h2 class="container is-max-desktop content">
         In order to effectively integrate the data of each modality and use it for global human pose estimation, we propose a Baseline, LEIR. First, input data from different modalities. Next, we use the feature extractor corresponding to different modalities to obtain features. The modal features enter the Temporal Unified Multimodal Model, and we propose the MMCA Unit to fuse the features. Finally, in the SMPL-Based Inverse Kinematics Solver, we design a variety of Loss to constrain data of different dimensions and finally predict the global human poses. 
       </h2>
     </div>
@@ -283,7 +283,7 @@
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
         <source src="./static/videos/RELI11D_CVPR2024_480p_p8.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h2 class="container is-max-desktop content">
         In the qualitative experiment, we show the different stages of data set annotation, and it can be seen that our annotation has the results closest to real actions. We also manually annotate RELI11D. Table 3 shows the ablation experiments of different losses in the Consolidated Optimization Stage. The results show that both manual annotation and optimized Loss can improve the quality of the dataset.
       </h2>
     </div>
@@ -295,7 +295,7 @@
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
         <source src="./static/videos/RELI11D_CVPR2024_480p_p9.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h2 class="container is-max-desktop content">
         In the Benchmarks experiment, we compare the human pose estimation method based on 2D video and the method based on global human pose estimation. It can be seen from the visualization experiments that existing methods cannot estimate fast-moving limb movements well, and almost all methods cannot estimate high-leg movements. 
         The last experiment is the evaluation of Baseline LEIR. First, we experiment with different inputs of LEIR, and the model index of three-modal input was the best. This result confirms the importance of multi-modal methods in human pose estimation. In addition, we conduct cross-dataset validation, and our method also performs better on other datasets.
       </h2>
@@ -308,7 +308,7 @@
       <video id="teaser" autoplay controls muted loop preload playsinline height="100%">
         <source src="./static/videos/RELI11D_CVPR2024_480p_p10.mp4" type="video/mp4">
       </video>
-      <h2 class="subtitle has-text-centered">
+      <h2 class="container is-max-desktop content">
         Furthermore, we perform visualization experiments on the prediction results of global trajectories. Combine with the analysis of the previous quantitative experimental results, it is show that the multi-modal method can be of considerable help in global human pose estimation.
       </h2>
     </div>
