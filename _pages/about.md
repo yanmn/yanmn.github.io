@@ -28,8 +28,11 @@ As an life-loving INFJ, I am always curious about the people and things around m
 
 
 ## News
+**06 / 2024** [Participating CVPR2024 in Seattle, USA!](https://asc.xmu.edu.cn/newsInfo?id=55)<br>
+**06 / 2024** [RELI11D](http://www.lidarhumanmotion.net/reli11d/) is available. <br>
 **02 / 2024** RELI11D accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024). <br>
-**06 / 2023** CIMI4D are available. <br>
+**06 / 2023** [Participating CVPR2023 in Vancouver, Canada!](https://mp.weixin.qq.com/s/19GjQW0qW7BY1JiQewgEBg)<br>
+**06 / 2023** [CIMI4D](http://www.lidarhumanmotion.net/cimi4d/) is available. <br>
 **02 / 2023** CIMI4D accepted by [CVPR 2023](https://cvpr2023.thecvf.com/). <br>
 
 
