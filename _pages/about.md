@@ -28,6 +28,7 @@ As an life-loving INFJ, I am always curious about the people and things around m
 
 
 ## News
+**02 / 2025** ClimbingCap accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025). 🙌 <br>
 **06 / 2024** [Participating CVPR2024 in Seattle, USA!](https://asc.xmu.edu.cn/newsInfo?id=55)<br>
 **06 / 2024** [RELI11D](http://www.lidarhumanmotion.net/reli11d/) is available. <br>
 **02 / 2024** RELI11D accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024). <br>
