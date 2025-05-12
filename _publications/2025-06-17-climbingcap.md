@@ -6,7 +6,7 @@ date: 2025-06-17
 author_profile: false
 navigation: false
 collection: publications
-venue: CVPR
+venue: CVPR 🪄Highlight(13.4%)
 journal: IEEE Conference on Computer Vision and Pattern Recognition
 author: "<strong>Ming Yan</strong>, Xincheng Lin, Yuhua Luo, Shuqi Fan, Yudi Dai, Qinxin Zhong, Lincai Zhong, Yuexin Ma, Lan Xu, Chenglu Wen, Siqi Shen<sup>*</sup>, Cheng Wang"
 paper: "https://arxiv.org/pdf/2503.21268"
