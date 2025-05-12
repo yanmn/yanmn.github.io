@@ -12,10 +12,8 @@ author: "<strong>Ming Yan</strong>, Xincheng Lin, Yuhua Luo, Shuqi Fan, Yudi Dai
 paper: "https://arxiv.org/pdf/2503.21268"
 project: "http://www.lidarhumanmotion.net/climbingcap/"
 youtube: "https://youtu.be/RYnroij7RXM"
-# code: "https://github.com/yanmn/RELI11DandLIER"
 data: "http://www.lidarhumanmotion.net/data-ascendmotion/"
 videopath: "/images/FFOutput/ClimbingCap_CVPR2025_put.mp4"
-
 
 header:
   overlay_color: "#428aa0"
