@@ -9,7 +9,7 @@ collection: publications
 venue: CVPR 🪄Highlight(13.4%)
 journal: IEEE Conference on Computer Vision and Pattern Recognition (CCF A, h5-index:440, Impact Factor:63.1)
 author: "<strong>Ming Yan</strong>, Xincheng Lin, Yuhua Luo, Shuqi Fan, Yudi Dai, Qinxin Zhong, Lincai Zhong, Yuexin Ma, Lan Xu, Chenglu Wen, Siqi Shen<sup>*</sup>, Cheng Wang"
-paper: "https://arxiv.org/pdf/2503.21268"
+paper: "https://openaccess.thecvf.com/content/CVPR2025/papers/Yan_ClimbingCap_Multi-Modal_Dataset_and_Method_for_Rock_Climbing_in_World_CVPR_2025_paper.pdf"
 project: "http://www.lidarhumanmotion.net/climbingcap/"
 youtube: "https://youtu.be/RYnroij7RXM"
 data: "http://www.lidarhumanmotion.net/data-ascendmotion/"
