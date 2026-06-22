@@ -28,7 +28,8 @@ As an life-loving INFJ, I am always curious about the people and things around m
 
 
 ## News
-**02 / 2026** [MTT](http://www.lidarhumanmotion.net/mtt/), FlashCap accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026). 🙌 <br>
+**04 / 2026** [MotionMAR](http://www.lidarhumanmotion.net/motionmar/) accepted by [ICML 2026](https://icml.cc/). 🙌 <br>
+**02 / 2026** [MTT](http://www.lidarhumanmotion.net/mtt/), [FlashCap](http://www.lidarhumanmotion.net/flashcap/) accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026). 🙌 <br>
 **04 / 2025** [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) was selected as a CVPR 2025 **<span style="color:red">🪄Highlight(13.4%)</span>** paper. <br>
 **02 / 2025** [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025). <br>
 **06 / 2024** [Participating CVPR2024 in Seattle, USA!](https://asc.xmu.edu.cn/newsInfo?id=55)<br>
