@@ -22,7 +22,7 @@ redirect_from:
 
 ## About Me 👋
 
-I am currently a postdoctoral researcher at the National Research Center for Information Science and Technology ([BNRist](https://www.bnrist.tsinghua.edu.cn/)), [Tsinghua University]( https://www.tsinghua.edu.cn/), working with Associate Researcher [**Tao Yu**](https://ytrock.com/) and Academician of Chinese Academy of Engineering [**Qionghai Dai**](https://scholar.google.com/citations?user=CHAajY4AAAAJ&hl=en). 
+I am currently a postdoctoral researcher at the **National Research Center for Information Science and Technology** ([**BNRist**](https://www.bnrist.tsinghua.edu.cn/)), [**Tsinghua University**]( https://www.tsinghua.edu.cn/), working with Associate Researcher [**Tao Yu**](https://ytrock.com/) and Academician of Chinese Academy of Engineering [**Qionghai Dai**](https://scholar.google.com/citations?user=CHAajY4AAAAJ&hl=en). 
 
 I received my Ph.D. in Engineering from the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)), [Key Laboratory of Multimedia Trusted Perception and Efficient Computing](https://multimedia.xmu.edu.cn/), [National Institute for Data Science in Health and Medicine](https://nidshm.xmu.edu.cn/), [Fujian Key Laboratory of Sensing and Computing for Smart City](https://scsc.xmu.edu.cn/) at [Xiamen University](https://en.xmu.edu.cn/), where I was advised by Associate Prof. [Siqi Shen](https://asc.xmu.edu.cn/t/shensiqi) and Prof. [Cheng Wang](http://chwang.xmu.edu.cn/) starting in 2022. I received my M.Eng. in Computer Technology from Huaqiao University in 2022, under the supervision of Prof. [Yewang Chen](https://faculty.hqu.edu.cn/CYW1/en/index.htm).
 
