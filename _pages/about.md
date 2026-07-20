@@ -5,15 +5,13 @@ title: "Ming Yan"
 excerpt: "😝<br><br><br><br>"
 author_profile: true
 
-
-
 header:
   # overlay_color: "#9EA0A3"
   overlay_image: /images/Vancouver7.png
   overlay_filter: rgba(0, 0, 0, 0.4)
   # tagline: "<br><br><br><br><br>"
 
-redirect_from: 
+redirect_from:
   - /about/
   - /yanmn/
   - /yanming/
@@ -22,90 +20,98 @@ redirect_from:
   - /yanming.html
 ---
 
-I am a Ph.D. student (since 2022) at the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)) at [Xiamen University](https://en.xmu.edu.cn/), advised by Prof. [Cheng Wang](http://chwang.xmu.edu.cn/) and Associate Prof. [Siqi Shen](https://asc.xmu.edu.cn/t/shensiqi).
+## About Me 👋
 
-As an life-loving INFJ, I am always curious about the people and things around me.🙌
+I am currently a postdoctoral researcher at the National Research Center for Information Science and Technology ([BNRist](https://www.bnrist.tsinghua.edu.cn/), ([Tsinghua University]( https://www.tsinghua.edu.cn/), working with Associate Researcher ([**Tao Yu**](https://ytrock.com/) and Academician of Chinese Academy of Engineering ([**Qionghai Dai**](https://scholar.google.com/citations?user=CHAajY4AAAAJ&hl=en). 
 
+I received my Ph.D. in Engineering from the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)), [Key Laboratory of Multimedia Trusted Perception and Efficient Computing](https://multimedia.xmu.edu.cn/), [National Institute for Data Science in Health and Medicine](https://nidshm.xmu.edu.cn/), [Fujian Key Laboratory of Sensing and Computing for Smart City](https://scsc.xmu.edu.cn/) at [Xiamen University](https://en.xmu.edu.cn/), where I was advised by Associate Prof. [Siqi Shen](https://asc.xmu.edu.cn/t/shensiqi) and Prof. [Cheng Wang](http://chwang.xmu.edu.cn/) starting in 2022. I received my M.Eng. in Computer Technology from Huaqiao University in 2022, under the supervision of Prof. [Yewang Chen](https://faculty.hqu.edu.cn/CYW1/en/index.htm).
 
-## News
-**04 / 2026** [MotionMAR](http://www.lidarhumanmotion.net/motionmar/) accepted by [ICML 2026](https://icml.cc/). 🙌 <br>
-**02 / 2026** [MTT](http://www.lidarhumanmotion.net/mtt/), [FlashCap](http://www.lidarhumanmotion.net/flashcap/) accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026). 🙌 <br>
-**04 / 2025** [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) was selected as a CVPR 2025 **<span style="color:red">🪄Highlight(13.4%)</span>** paper. <br>
-**02 / 2025** [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025). <br>
-**06 / 2024** [Participating CVPR2024 in Seattle, USA!](https://asc.xmu.edu.cn/newsInfo?id=55)<br>
-**06 / 2024** [RELI11D](http://www.lidarhumanmotion.net/reli11d/) is available. <br>
-**02 / 2024** RELI11D accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024). <br>
-**06 / 2023** [Participating CVPR2023 in Vancouver, Canada!](https://mp.weixin.qq.com/s/19GjQW0qW7BY1JiQewgEBg)<br>
-**06 / 2023** [CIMI4D](http://www.lidarhumanmotion.net/cimi4d/) is available. <br>
-**02 / 2023** CIMI4D accepted by [CVPR 2023](https://cvpr2023.thecvf.com/). <br>
+I have maintained long-term collaborations with Researcher ([Lan Xu](http://xu-lan.com/) and Associate Prof. ([Yuexin Ma](https://yuexinma.me/) at ShanghaiTech University. I have also contributed to research projects and scientific training systems for the Chinese National Climbing Team. 🧗
 
+My research focuses on the **perception, understanding, and modeling of human motion in complex real-world environments**, with particular interests in:
 
-<!-- I obtained my B.E. in Cognitive Science from Xiamen University in 2016, and started my M.S. studies in 2017 before transitioning to the Ph.D. program. 
+- **3D vision**
+- **Multimodal human motion capture**
+- **Biomechanical motion analysis**
+- **Embodied observation**
 
-My research interests focus on 3D Computer Vision, including LiDAR mapping, Scene-aware 4D human motion capturing and Human-scene interaction modeling. 
-My goal is to develop robust methods to perceive and understand human behavior in complex environments.
+My core expertise lies in designing and building multimodal data acquisition systems from the ground up. These systems integrate sensors such as RGB cameras, LiDAR, IMUs, event cameras, and motion-capture devices to collect high-quality human motion data in challenging real-world scenarios, including rock climbing, athletic training, complex environments, and high-speed motion. 📷📡
 
-Additionally, I am a huge fan of outdoor sports, particularly rock climbing, hiking, and mountaineering. ([Outdoor CV](/outdoor))
+In recent years, I have gradually expanded my research from external human motion reconstruction toward:
 
-I'm always looking for adventure partners to explore new trails on science and mountain.
-Feel free to reach out to me for discussions or collaborations. -->
+- anatomically consistent estimation of human skeletal and muscular states;
+- biomechanical analysis for competitive sports and rehabilitation medicine;
+- retargeting real-world human motion to humanoid robots and evaluating robot motion;
+- active observation of human and animal behavior using embodied intelligent systems.
 
+As a life-loving INFJ, I am always curious about people, motion, and the world around me. 🙌
 
+## News 📰
 
+**04 / 2026** 🎉 [MotionMAR](http://www.lidarhumanmotion.net/motionmar/) was accepted by [ICML 2026](https://icml.cc/).  
+**03 / 2026** 🎉 [Motion Turing Test](http://www.lidarhumanmotion.net/mtt/) and [FlashCap](http://www.lidarhumanmotion.net/flashcap/) were accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).  
+**12 / 2025** 🎤 Invited to give a keynote talk at the inaugural [CCF AI4Humanities 2025](https://ccf.org.cn/ai4h2025/brief_3006).  
+**11 / 2025** 🧗 Our [*3D+AI Scientific Training System for Competitive Climbing Athletes*](https://mp.weixin.qq.com/s/wcXbF7ZMbbvAyW819vufqw) was exhibited in the main showroom of the Baidu Empowerment Center. 
+**10 / 2025** 🎤 Gave an academic talk at .  
+**07 / 2025** 🏆 Served as the technical lead of the first HumanSI Multimodal Human Pose Estimation Challenge and organized the on-site evaluation at [ChinaSI 2025](https://www.csig.org.cn/23/202507/52769.html)  .
+**06 / 2025** 🇺🇸 Attended CVPR 2025 in Nashville, USA, and presented [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/).  
+**05–06 / 2025** 🧗 Invited by the Chinese National Climbing Team to conduct athlete training and rehabilitation data collection at the National Mountaineering Training Base.  
+**04 / 2025** ✨ [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) was selected as a **CVPR 2025 Highlight** paper.  
+**02 / 2025** 🎉 [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) was accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).  
+**06 / 2024** 🇺🇸 Attended [CVPR 2024 in Seattle, USA](https://asc.xmu.edu.cn/newsInfo?id=55), and presented [RELI11D](http://www.lidarhumanmotion.net/reli11d/).  
+**02 / 2024** 🎉 [RELI11D](http://www.lidarhumanmotion.net/reli11d/) was accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).  
+**06 / 2023** 🇨🇦 Attended [CVPR 2023 in Vancouver, Canada](https://mp.weixin.qq.com/s/19GjQW0qW7BY1JiQewgEBg), and presented [CIMI4D](http://www.lidarhumanmotion.net/cimi4d/).  
+**02 / 2023** 🎉 [CIMI4D](http://www.lidarhumanmotion.net/cimi4d/) was accepted by [CVPR 2023](https://cvpr2023.thecvf.com/).
 
-<!-- ## Selected Publications
+## Honors and Awards 🏅
 
-**Yudi Dai**, Yitai Lin, Chenglu Wen\*, Siqi Shen, Lan Xu, Jingyi Yu, Yuexin Ma, Cheng Wang. "HSC4D: Human-centered 4D Scene Capture in Large-scale Indoor-outdoor Space Using Wearable IMUs and LiDAR". *Accepted to CVPR 2022*
+- **CVPR 2025 Highlight** for *ClimbingCap*
+- **Outstanding Master's Thesis of Fujian Province**, 2023
+- **National Second Prize**, Huawei Cup National Postgraduate Mathematical Contest, Team Leader, 2021
+- **Meritorious Winner**, Mathematical Contest in Modeling (MCM), Team Leader, 2017
+- **Third Award in Mechanical Engineering**, Intel International Science and Engineering Fair (ISEF), Member of Team China, 2016
+- **First Prize**, China Adolescents Science and Technology Innovation Contest, 2015
+- **Gold Award**, Soong Ching Ling Award for Children's Invention, 2017
+- **Outstanding University Student of Xiamen**, 2017 and 2018
+- Two granted national invention patents
 
-**Yudi Dai**, Chenglu Wen\*, Hai Wu, Yulan Guo, Longbiao Chen and Cheng Wang. “Indoor 3D Human Trajectory Reconstruction Using Surveillance Camera Videos and Point Clouds.” *IEEE Transactions on Circuits and Systems for Video Technology* (2021).
+## Academic Service 🌟
 
-Cheng Wang\*, **Yudi Dai**, Naser El-Sheimy, Chenglu Wen, Guenther Retscher, Zhizhong Kang and Andrea Maria Lingua. “ISPRS BENCHMARK ON MULTISENSORY INDOOR MAPPING AND POSITIONING.”  *ISPRS Annals of Photogrammetry, Remote Sensing & Spatial Information Sciences* 5, no. 5 (2020).
+### Reviewer
 
-Chenglu Wen\*, **Yudi Dai**, Yan Xia, Yuhan Lian, Jinbin Tan, Cheng Wang, and Jonathan Li. "Toward efficient 3-d colored mapping in GPS-/GNSS-denied environments." *IEEE Geoscience and Remote Sensing Letters* 17, no. 1 (2019): 147-151. -->
+Reviewer for international conferences and journals, including:
 
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5xqjws4jj9m&amp;m=2&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script> -->
+NeurIPS 2024; ICLR 2025; ICML 2025; NeurIPS 2025; ACM MM 2025; ICCV 2025; AAAI 2026; ICLR 2026; CVPR 2026; ECCV 2026; ACM MM 2026; BMVC 2026; and NeurIPS 2026.
+
+### Program Committee
+
+- ACM Multimedia
+- PATTERNS International Conference
+
+### Youth Science and Research Activities 🔬
+
+- Judge for the **ISEF 2026 Alumni Special Award**
+- Reviewer for the **National High School Talent Program**
+- Technical lead of Prof. Cheng Wang's computer science team at Xiamen University for the National High School Talent Program for four consecutive years
+- Reviewer for the China Association for Science and Technology's national youth science programs
+- Mentored high school students who were selected as Outstanding Students in the National High School Talent Program and received Gold Awards at national invention exhibitions
+
+## Invited Talks and Activities 🎤
+
+- **CCF AI4Humanities 2025** — Keynote Talk
+- **ICIG 2025** — Academic Talk
+- **ChinaSI 2025** — Oral Presentation
+- **China 3DV 2025** — Banquet Presentation
+- **CSIG Xiamen Member Activity Center** — Invited Speaker
+- **Fujian Youth Science and Technology Innovation Competition** — Invited Guest and Speaker
+- Attended **CVPR 2023, CVPR 2024, and CVPR 2025** in person
+- Academic visit to the **UCLA Computer Science Department**
+- Organizing committee member and technical support for the **IFSC Climbing World Cup**
+
+---
+
+I am always open to discussions and collaborations in **3D human motion capture, biomechanical motion analysis, competitive sports, and embodied intelligence**. 🤝
+
 <br>
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=whUpWTOMaRSFIlZ8SHHs4tNFuLsWYGoma6jLIZTiv5c&cl=ffffff&w=a"></script>
-
-<!-- <script type="text/javascript" src="//rf.revolvermaps.com/0/0/9.js?i=5xqjws4jj9m" async="async"></script> -->
-
-<!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io). -->
-
-<!-- A data-driven personal website -->
-<!-- ====== -->
-<!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge. -->
-
-<!-- Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html). -->
-
-<!-- Getting started -->
-<!-- ====== -->
-<!-- 1. Register a GitHub account if you don't have one and confirm your e-mail (required!) -->
-<!-- 2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.  -->
-<!-- 3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL. -->
-<!-- 4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct") -->
-<!-- 5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.   -->
-<!-- 6. Check status by going to the repository settings, in the "GitHub pages" section -->
-
-<!-- Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
