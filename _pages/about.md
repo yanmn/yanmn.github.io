@@ -22,11 +22,11 @@ redirect_from:
 
 ## About Me 👋
 
-I am currently a postdoctoral researcher at the National Research Center for Information Science and Technology ([BNRist](https://www.bnrist.tsinghua.edu.cn/), ([Tsinghua University]( https://www.tsinghua.edu.cn/), working with Associate Researcher ([**Tao Yu**](https://ytrock.com/) and Academician of Chinese Academy of Engineering ([**Qionghai Dai**](https://scholar.google.com/citations?user=CHAajY4AAAAJ&hl=en). 
+I am currently a postdoctoral researcher at the National Research Center for Information Science and Technology ([BNRist](https://www.bnrist.tsinghua.edu.cn/)), [Tsinghua University]( https://www.tsinghua.edu.cn/), working with Associate Researcher [**Tao Yu**](https://ytrock.com/) and Academician of Chinese Academy of Engineering [**Qionghai Dai**](https://scholar.google.com/citations?user=CHAajY4AAAAJ&hl=en). 
 
 I received my Ph.D. in Engineering from the spAtial Sensing and Computing Lab ([ASC](https://asc.xmu.edu.cn/)), [Key Laboratory of Multimedia Trusted Perception and Efficient Computing](https://multimedia.xmu.edu.cn/), [National Institute for Data Science in Health and Medicine](https://nidshm.xmu.edu.cn/), [Fujian Key Laboratory of Sensing and Computing for Smart City](https://scsc.xmu.edu.cn/) at [Xiamen University](https://en.xmu.edu.cn/), where I was advised by Associate Prof. [Siqi Shen](https://asc.xmu.edu.cn/t/shensiqi) and Prof. [Cheng Wang](http://chwang.xmu.edu.cn/) starting in 2022. I received my M.Eng. in Computer Technology from Huaqiao University in 2022, under the supervision of Prof. [Yewang Chen](https://faculty.hqu.edu.cn/CYW1/en/index.htm).
 
-I have maintained long-term collaborations with Researcher ([Lan Xu](http://xu-lan.com/) and Associate Prof. ([Yuexin Ma](https://yuexinma.me/) at ShanghaiTech University. I have also contributed to research projects and scientific training systems for the Chinese National Climbing Team. 🧗
+I have maintained long-term collaborations with Researcher [Lan Xu](http://xu-lan.com/) and Associate Prof. [Yuexin Ma](https://yuexinma.me/) at ShanghaiTech University. I have also contributed to research projects and scientific training systems for the Chinese National Climbing Team. 🧗
 
 My research focuses on the **perception, understanding, and modeling of human motion in complex real-world environments**, with particular interests in:
 
@@ -71,7 +71,7 @@ As a life-loving INFJ, I am always curious about people, motion, and the world a
 - **Meritorious Winner**, Mathematical Contest in Modeling (MCM), Team Leader, 2017
 - **Third Award in Mechanical Engineering**, Intel International Science and Engineering Fair (ISEF), Member of Team China, 2016
 - **First Prize**, China Adolescents Science and Technology Innovation Contest, 2015
-- **Gold Award**, Soong Ching Ling Award for Children's Invention, 2017
+- **Gold Award**, Soong Ching Ling Award for Invention, 2017
 - **Outstanding University Student of Xiamen**, 2017 and 2018
 - Two granted national invention patents
 
@@ -105,7 +105,6 @@ NeurIPS 2024; ICLR 2025; ICML 2025; NeurIPS 2025; ACM MM 2025; ICCV 2025; AAAI 2
 - **CSIG Xiamen Member Activity Center** — Invited Speaker
 - **Fujian Youth Science and Technology Innovation Competition** — Invited Guest and Speaker
 - Attended **CVPR 2023, CVPR 2024, and CVPR 2025** in person
-- Academic visit to the **UCLA Computer Science Department**
 - Organizing committee member and technical support for the **IFSC Climbing World Cup**
 
 ---
