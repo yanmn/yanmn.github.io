@@ -28,12 +28,7 @@ I received my Ph.D. in Engineering from the spAtial Sensing and Computing Lab ([
 
 I have maintained long-term collaborations with Researcher [Lan Xu](http://xu-lan.com/) and Associate Prof. [Yuexin Ma](https://yuexinma.me/) at ShanghaiTech University. I have also contributed to research projects and scientific training systems for the Chinese National Climbing Team. 🧗
 
-My research focuses on the **perception, understanding, and modeling of human motion in complex real-world environments**, with particular interests in:
-
-- **3D vision**
-- **Multimodal human motion capture**
-- **Biomechanical motion analysis**
-- **Embodied observation**
+My research focuses on the **perception, understanding, and modeling of human motion in complex real-world environments**, with particular interests in: (1)**3D vision**, (2)**Multimodal human motion capture**, (3)**Biomechanical motion analysis**, (4)**Embodied observation**
 
 ## News 📰
 
