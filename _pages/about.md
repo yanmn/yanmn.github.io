@@ -93,7 +93,7 @@ NeurIPS 2024; ICLR 2025; ICML 2025; NeurIPS 2025; ACM MM 2025; ICCV 2025; AAAI 2
 - **China 3DV 2025** — Banquet Presentation
 - **CSIG Xiamen Member Activity Center** — Invited Speaker
 - **Fujian Youth Science and Technology Innovation Competition** — Invited Guest and Speaker
-- Attended **CVPR 2023, CVPR 2024, and CVPR 2025** in person
+- Attended **CVPR 2023, CVPR 2024, and CVPR 2025** by OA
 - Organizing committee member and technical support for the **IFSC Climbing World Cup**
 
 ---
