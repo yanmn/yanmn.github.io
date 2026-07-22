@@ -69,8 +69,8 @@ NeurIPS 2024; ICLR 2025; ICML 2025; NeurIPS 2025; ACM MM 2025; ICCV 2025; AAAI 2
 
 ### Program Committee
 
-- PATTERNS International Conference 2026(https://www.iaria.org/conferences2026/ComPATTERNS26.html)
-- PATTERNS International Conference 2025(https://www.iaria.org/conferences2025/ComPATTERNS25.html)
+- [PATTERNS International Conference 2026](https://www.iaria.org/conferences2026/ComPATTERNS26.html)
+- [PATTERNS International Conference 2025](https://www.iaria.org/conferences2025/ComPATTERNS25.html)
 
 ### Youth Science and Research Activities 🔬
 
