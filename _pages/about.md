@@ -52,15 +52,15 @@ As a life-loving INFJ, I am always curious about people, motion, and the world a
 **03 / 2026** 🎉 [Motion Turing Test](http://www.lidarhumanmotion.net/mtt/) and [FlashCap](http://www.lidarhumanmotion.net/flashcap/) were accepted by [CVPR 2026](https://cvpr.thecvf.com/Conferences/2026).  
 **12 / 2025** 🎤 Invited to give a keynote talk at the inaugural [CCF AI4Humanities 2025](https://ccf.org.cn/ai4h2025/brief_3006).  
 **11 / 2025** 🧗 Our [*3D+AI Scientific Training System for Competitive Climbing Athletes*](https://mp.weixin.qq.com/s/wcXbF7ZMbbvAyW819vufqw) was exhibited in the main showroom of the Baidu Empowerment Center. 
-**10 / 2025** 🎤 Gave an academic talk at .  
-**07 / 2025** 🏆 Served as the technical lead of the first HumanSI Multimodal Human Pose Estimation Challenge and organized the on-site evaluation at [ChinaSI 2025](https://www.csig.org.cn/23/202507/52769.html)  .
-**06 / 2025** 🇺🇸 Attended CVPR 2025 in Nashville, USA, and presented [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/).  
+**10 / 2025** 🎤 Gave an academic talk at [ICIG2025](https://icig.csig.org.cn/2025/).
+**07 / 2025** 🏆 Served as the technical lead of the first HumanSI Multimodal Human Pose Estimation Challenge and organized the on-site evaluation at [ChinaSI 2025](https://www.csig.org.cn/23/202507/52769.html).
+**06 / 2025** Attended CVPR 2025 in Nashville, USA, and presented [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/).  
 **05–06 / 2025** 🧗 Invited by the Chinese National Climbing Team to conduct athlete training and rehabilitation data collection at the National Mountaineering Training Base.  
-**04 / 2025** ✨ [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) was selected as a **CVPR 2025 Highlight** paper.  
+**04 / 2025** ✨ [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) was selected as a **CVPR 2025 Highlight(13.4%)** paper.  
 **02 / 2025** 🎉 [ClimbingCap](http://www.lidarhumanmotion.net/climbingcap/) was accepted by [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025).  
-**06 / 2024** 🇺🇸 Attended [CVPR 2024 in Seattle, USA](https://asc.xmu.edu.cn/newsInfo?id=55), and presented [RELI11D](http://www.lidarhumanmotion.net/reli11d/).  
+**06 / 2024** Attended [CVPR 2024 in Seattle, USA](https://asc.xmu.edu.cn/newsInfo?id=55), and presented [RELI11D](http://www.lidarhumanmotion.net/reli11d/).  
 **02 / 2024** 🎉 [RELI11D](http://www.lidarhumanmotion.net/reli11d/) was accepted by [CVPR 2024](https://cvpr.thecvf.com/Conferences/2024).  
-**06 / 2023** 🇨🇦 Attended [CVPR 2023 in Vancouver, Canada](https://mp.weixin.qq.com/s/19GjQW0qW7BY1JiQewgEBg), and presented [CIMI4D](http://www.lidarhumanmotion.net/cimi4d/).  
+**06 / 2023** Attended [CVPR 2023 in Vancouver, Canada](https://mp.weixin.qq.com/s/19GjQW0qW7BY1JiQewgEBg), and presented [CIMI4D](http://www.lidarhumanmotion.net/cimi4d/).  
 **02 / 2023** 🎉 [CIMI4D](http://www.lidarhumanmotion.net/cimi4d/) was accepted by [CVPR 2023](https://cvpr2023.thecvf.com/).
 
 ## Honors and Awards 🏅
@@ -69,7 +69,7 @@ As a life-loving INFJ, I am always curious about people, motion, and the world a
 - **Outstanding Master's Thesis of Fujian Province**, 2023
 - **National Second Prize**, Huawei Cup National Postgraduate Mathematical Contest, Team Leader, 2021
 - **Meritorious Winner**, Mathematical Contest in Modeling (MCM), Team Leader, 2017
-- **Third Award in Mechanical Engineering**, Intel International Science and Engineering Fair (ISEF), Member of Team China, 2016
+- [**Third Award in Mechanical Engineering**](https://www.societyforscience.org/press-release/intel-isef-2016-grand-award-winners/), Intel International Science and Engineering Fair (ISEF), Member of Team China, 2016
 - **First Prize**, China Adolescents Science and Technology Innovation Contest, 2015
 - **Gold Award**, Soong Ching Ling Award for Invention, 2017
 - **Outstanding University Student of Xiamen**, 2017 and 2018
@@ -85,8 +85,8 @@ NeurIPS 2024; ICLR 2025; ICML 2025; NeurIPS 2025; ACM MM 2025; ICCV 2025; AAAI 2
 
 ### Program Committee
 
-- ACM Multimedia
-- PATTERNS International Conference
+- PATTERNS International Conference 2026(https://www.iaria.org/conferences2026/ComPATTERNS26.html)
+- PATTERNS International Conference 2025(https://www.iaria.org/conferences2025/ComPATTERNS25.html)
 
 ### Youth Science and Research Activities 🔬
 
