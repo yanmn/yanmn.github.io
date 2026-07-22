@@ -35,17 +35,6 @@ My research focuses on the **perception, understanding, and modeling of human mo
 - **Biomechanical motion analysis**
 - **Embodied observation**
 
-My core expertise lies in designing and building multimodal data acquisition systems from the ground up. These systems integrate sensors such as RGB cameras, LiDAR, IMUs, event cameras, and motion-capture devices to collect high-quality human motion data in challenging real-world scenarios, including rock climbing, athletic training, complex environments, and high-speed motion. 📷📡
-
-In recent years, I have gradually expanded my research from external human motion reconstruction toward:
-
-- anatomically consistent estimation of human skeletal and muscular states;
-- biomechanical analysis for competitive sports and rehabilitation medicine;
-- retargeting real-world human motion to humanoid robots and evaluating robot motion;
-- active observation of human and animal behavior using embodied intelligent systems.
-
-As a life-loving INFJ, I am always curious about people, motion, and the world around me. 🙌
-
 ## News 📰
 
 **04 / 2026** 🎉 [MotionMAR](http://www.lidarhumanmotion.net/motionmar/) was accepted by [ICML 2026](https://icml.cc/).  
@@ -108,6 +97,17 @@ NeurIPS 2024; ICLR 2025; ICML 2025; NeurIPS 2025; ACM MM 2025; ICCV 2025; AAAI 2
 - Organizing committee member and technical support for the **IFSC Climbing World Cup**
 
 ---
+
+My core expertise lies in designing and building multimodal data acquisition systems from the ground up. These systems integrate sensors such as RGB cameras, LiDAR, IMUs, event cameras, and motion-capture devices to collect high-quality human motion data in challenging real-world scenarios, including rock climbing, athletic training, complex environments, and high-speed motion. 📷📡
+
+In recent years, I have gradually expanded my research from external human motion reconstruction toward:
+
+- anatomically consistent estimation of human skeletal and muscular states;
+- biomechanical analysis for competitive sports and rehabilitation medicine;
+- retargeting real-world human motion to humanoid robots and evaluating robot motion;
+- active observation of human and animal behavior using embodied intelligent systems.
+
+As a life-loving INFJ, I am always curious about people, motion, and the world around me. 🙌
 
 I am always open to discussions and collaborations in **3D human motion capture, biomechanical motion analysis, competitive sports, and embodied intelligence**. 🤝
 
