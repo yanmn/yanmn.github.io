@@ -2,7 +2,7 @@
 layout: single
 permalink: /
 title: "Ming Yan"
-excerpt: "😝<br><br><br><br>"
+excerpt: "PostDoc, Tsinghua University"
 author_profile: true
 
 header:
