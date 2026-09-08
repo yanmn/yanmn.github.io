@@ -7,9 +7,9 @@ author_profile: true
 
 header:
   # overlay_color: "#9EA0A3"
-  overlay_image: /images/ym_in_Vancouver_background2.png
+  overlay_image: /images/ym_in_Vancouver_background3.png
   overlay_height: "clamp(180px, 19.89vw, 432px)"
-  overlay_filter: rgba(0, 0, 0, 0.2)
+  overlay_filter: rgba(0, 0, 0, 0.3)
   # tagline: "<br><br><br><br><br>"
 
 redirect_from:
