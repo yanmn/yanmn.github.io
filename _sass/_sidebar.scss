@@ -235,3 +235,44 @@
     }
   }
 }
+
+/*
+   Enlarged author profile on wide screens
+   ========================================================================== */
+
+@include breakpoint($x-large) {
+  // Keep the profile's right edge aligned with the content column and use the
+  // otherwise empty space on the left for the additional width.
+  .sidebar > [itemscope][itemtype="http://schema.org/Person"] {
+    width: 150%;
+    margin-left: -50%;
+
+    .author__avatar img {
+      max-width: 262.5px;
+      padding: 7.5px;
+    }
+
+    .author__name {
+      margin-top: 15px;
+      margin-bottom: 15px;
+      font-size: 1.5em;
+    }
+
+    .author__bio {
+      margin-top: 15px;
+      margin-bottom: 30px;
+      font-size: 1.125em;
+    }
+
+    .author__urls li {
+      font-size: 1.125em;
+    }
+
+    .author__urls a {
+      margin-bottom: 7.5px;
+      padding-right: 7.5px;
+      padding-top: 3px;
+      padding-bottom: 3px;
+    }
+  }
+}
