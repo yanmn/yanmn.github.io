@@ -247,9 +247,14 @@
     width: 150%;
     margin-left: -50%;
 
-    .author__avatar img {
-      max-width: 262.5px;
-      padding: 7.5px;
+    div.author__avatar {
+      width: 120%;
+      margin-left: -20%;
+
+      img {
+        max-width: 315px;
+        padding: 9px;
+      }
     }
 
     .author__name {
