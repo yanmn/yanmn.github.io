@@ -7,7 +7,8 @@ author_profile: true
 
 header:
   # overlay_color: "#9EA0A3"
-  overlay_image: /images/Vancouver7.png
+  overlay_image: /images/ym_in_Vancouver_background1.png
+  overlay_height: "clamp(180px, 19.89vw, 432px)"
   overlay_filter: rgba(0, 0, 0, 0.4)
   # tagline: "<br><br><br><br><br>"
 
