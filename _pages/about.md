@@ -31,6 +31,8 @@ I have maintained long-term collaborations with Researcher [Lan Xu](http://xu-la
 
 My research focuses on the **perception, understanding, and modeling of human motion in complex real-world environments**, with particular interests in: (1)**3D vision**, (2)**Multimodal human motion capture**, (3)**Biomechanical motion analysis**, (4)**Embodied observation**
 
+For any collaboration or inquiries, please feel free to send me an email: yami@tsinghua.edu.cn
+
 ## News 📰
 
 **04 / 2026** 🎉 [MotionMAR](http://www.lidarhumanmotion.net/motionmar/) was accepted by [ICML 2026](https://icml.cc/).  
