@@ -113,4 +113,5 @@ I am always open to discussions and collaborations in **3D human motion capture,
 
 <br>
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=whUpWTOMaRSFIlZ8SHHs4tNFuLsWYGoma6jLIZTiv5c&cl=ffffff&w=a"></script>
+<script async src="https://www.stats4u.net/js/globe.js" data-s4uid="2895801579" data-size="280" data-lang="en" data-count="1"></script>
+<!-- Stats4U #2895801579 · Statistics and settings for this counter: https://www.stats4u.net/live/2895801579 -->
